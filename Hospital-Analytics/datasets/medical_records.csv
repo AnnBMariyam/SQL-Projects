@@ -1,0 +1,2001 @@
+record_id,patient_id,doctor_id,diagnosis,treatment,treatment_cost,visit_date
+1,518,92,COVID-19,Consultation,16080,2025-05-10
+2,802,86,COVID-19,Surgery,5885,2025-03-07
+3,4,131,Heart Disease,Consultation,19948,2025-10-06
+4,502,97,Fracture,Medication,16107,2025-05-09
+5,464,48,Diabetes,Therapy,18030,2025-06-14
+6,448,98,Migraine,Surgery,13149,2025-01-04
+7,855,63,Diabetes,Therapy,346,2025-02-06
+8,503,138,Migraine,Consultation,9115,2025-08-14
+9,556,90,Fracture,Medication,14826,2025-05-30
+10,678,45,COVID-19,Consultation,8296,2025-02-13
+11,554,50,Allergy,Consultation,15395,2025-03-21
+12,920,16,COVID-19,Medication,4374,2025-11-04
+13,800,18,COVID-19,Surgery,434,2024-12-04
+14,478,4,Migraine,Consultation,10545,2025-08-25
+15,154,1,Migraine,Therapy,11624,2025-03-24
+16,887,13,Migraine,Consultation,9676,2025-09-24
+17,14,131,Allergy,Medication,15548,2025-01-07
+18,955,6,Heart Disease,Therapy,14362,2025-04-27
+19,441,22,Heart Disease,Medication,8892,2024-12-22
+20,291,49,Diabetes,Therapy,18341,2025-07-21
+21,962,142,Diabetes,Therapy,8533,2025-01-16
+22,666,27,Diabetes,Surgery,12611,2025-01-24
+23,674,18,Diabetes,Medication,8413,2025-05-14
+24,777,71,Fracture,Medication,12416,2025-07-19
+25,375,101,Fracture,Surgery,13757,2025-06-09
+26,840,140,Diabetes,Medication,5778,2025-01-17
+27,511,5,Diabetes,Surgery,12388,2025-03-13
+28,599,122,Diabetes,Medication,16794,2025-04-15
+29,123,39,Diabetes,Surgery,15252,2025-05-12
+30,52,62,Allergy,Consultation,504,2025-07-08
+31,645,16,Heart Disease,Therapy,6424,2025-07-01
+32,910,145,Allergy,Surgery,3435,2025-12-02
+33,541,5,Migraine,Medication,2634,2024-12-12
+34,460,52,Fracture,Medication,11890,2025-10-28
+35,853,131,Allergy,Therapy,5620,2025-03-20
+36,582,41,Diabetes,Therapy,8702,2025-09-23
+37,517,104,Fracture,Therapy,3152,2025-07-23
+38,701,93,COVID-19,Consultation,7635,2025-09-15
+39,400,76,Diabetes,Surgery,13086,2025-05-07
+40,797,14,Diabetes,Therapy,18560,2025-06-21
+41,675,56,Migraine,Consultation,1544,2025-10-18
+42,740,78,Allergy,Medication,6254,2025-10-24
+43,974,32,Fracture,Consultation,8155,2025-02-05
+44,539,35,COVID-19,Surgery,364,2025-03-15
+45,138,80,COVID-19,Surgery,17514,2025-07-17
+46,990,150,Fracture,Medication,11823,2025-09-21
+47,460,60,Heart Disease,Surgery,16064,2025-10-06
+48,886,85,Fracture,Medication,6211,2024-12-21
+49,548,77,Migraine,Consultation,1332,2025-01-28
+50,157,87,Diabetes,Consultation,3154,2025-07-27
+51,523,141,Migraine,Medication,2754,2025-03-21
+52,307,69,Migraine,Surgery,571,2025-06-03
+53,699,75,COVID-19,Surgery,12576,2025-04-14
+54,402,113,Migraine,Consultation,14849,2025-03-21
+55,152,109,Allergy,Surgery,8521,2025-10-07
+56,550,135,Heart Disease,Therapy,8237,2025-01-18
+57,715,137,Migraine,Therapy,13282,2024-12-09
+58,241,26,Heart Disease,Medication,4151,2025-07-30
+59,637,41,Allergy,Therapy,3936,2025-04-12
+60,288,78,Migraine,Consultation,12782,2025-06-18
+61,351,136,Diabetes,Therapy,12560,2025-03-28
+62,265,117,Allergy,Consultation,18021,2025-11-01
+63,37,62,Allergy,Consultation,2319,2025-01-30
+64,212,19,COVID-19,Surgery,10004,2025-07-19
+65,419,10,Diabetes,Surgery,11574,2025-02-02
+66,418,53,Diabetes,Consultation,3370,2025-08-10
+67,874,17,COVID-19,Medication,4777,2025-04-20
+68,992,13,Fracture,Surgery,11095,2025-02-12
+69,754,18,Migraine,Consultation,16439,2025-02-02
+70,132,43,Migraine,Consultation,4160,2024-12-31
+71,850,57,COVID-19,Medication,7942,2025-10-31
+72,875,44,Migraine,Therapy,7896,2025-06-17
+73,752,104,COVID-19,Medication,16828,2025-04-07
+74,345,90,Diabetes,Consultation,9522,2025-06-19
+75,808,129,Migraine,Consultation,19618,2025-05-10
+76,698,29,Migraine,Consultation,10807,2025-10-12
+77,509,76,Heart Disease,Surgery,15517,2025-10-19
+78,303,57,Migraine,Medication,16021,2025-11-21
+79,3,18,Fracture,Surgery,16444,2025-01-07
+80,481,44,Fracture,Medication,5903,2025-08-08
+81,664,119,Allergy,Surgery,1999,2025-02-28
+82,761,103,Diabetes,Surgery,9062,2025-08-11
+83,19,64,COVID-19,Surgery,6632,2025-11-15
+84,347,110,COVID-19,Therapy,16985,2025-03-13
+85,542,96,COVID-19,Therapy,5922,2025-10-01
+86,238,128,Fracture,Medication,5339,2025-09-23
+87,669,140,Diabetes,Surgery,785,2025-02-21
+88,864,55,Allergy,Therapy,16725,2025-07-20
+89,381,58,Migraine,Surgery,8833,2025-01-08
+90,173,32,Heart Disease,Surgery,5057,2025-09-28
+91,294,51,Allergy,Therapy,14736,2025-05-21
+92,947,38,Allergy,Therapy,2839,2025-01-27
+93,78,41,COVID-19,Consultation,18403,2025-04-10
+94,973,99,Allergy,Consultation,8780,2025-11-27
+95,22,76,Migraine,Consultation,6229,2025-11-09
+96,494,142,Heart Disease,Medication,14192,2025-07-28
+97,543,52,Fracture,Therapy,12215,2025-08-04
+98,982,52,Migraine,Surgery,7837,2025-09-06
+99,138,116,Fracture,Consultation,5213,2025-11-22
+100,171,13,Diabetes,Consultation,6853,2025-11-22
+101,321,21,Fracture,Therapy,6850,2024-12-03
+102,665,120,COVID-19,Surgery,9668,2025-01-01
+103,60,132,Heart Disease,Surgery,7058,2025-08-10
+104,627,119,COVID-19,Surgery,19656,2025-04-01
+105,88,25,Migraine,Medication,13203,2025-10-26
+106,575,148,COVID-19,Consultation,9431,2025-05-15
+107,581,36,Heart Disease,Therapy,16643,2025-10-18
+108,94,109,Diabetes,Consultation,19023,2025-09-02
+109,603,91,COVID-19,Medication,15500,2025-03-24
+110,201,148,COVID-19,Medication,6625,2025-11-11
+111,110,16,COVID-19,Surgery,5261,2025-08-07
+112,34,32,Migraine,Medication,16857,2024-12-22
+113,53,110,COVID-19,Therapy,17607,2025-02-05
+114,139,140,Migraine,Therapy,13250,2025-03-24
+115,805,90,Fracture,Surgery,19172,2025-09-09
+116,436,101,Fracture,Medication,10647,2025-08-21
+117,505,117,Migraine,Surgery,9473,2025-05-27
+118,866,62,Allergy,Surgery,5658,2025-01-07
+119,519,50,COVID-19,Surgery,14804,2025-09-26
+120,974,88,COVID-19,Medication,17043,2025-04-29
+121,64,100,COVID-19,Surgery,1903,2024-12-10
+122,571,102,Heart Disease,Surgery,18944,2025-05-14
+123,18,125,Migraine,Consultation,3534,2025-09-30
+124,567,10,Migraine,Therapy,11671,2025-01-12
+125,831,1,Heart Disease,Consultation,5547,2025-10-17
+126,284,102,Migraine,Consultation,16895,2025-04-23
+127,126,2,Fracture,Surgery,15620,2025-01-22
+128,149,71,COVID-19,Surgery,6862,2025-08-17
+129,380,124,Migraine,Therapy,11392,2025-02-25
+130,970,143,COVID-19,Consultation,5056,2025-01-22
+131,292,10,Diabetes,Consultation,3222,2025-06-23
+132,927,99,COVID-19,Therapy,2071,2025-05-29
+133,837,32,Heart Disease,Surgery,13880,2025-06-11
+134,309,131,Allergy,Consultation,7895,2025-05-03
+135,500,86,Migraine,Therapy,19121,2025-05-03
+136,500,11,Allergy,Surgery,8268,2025-08-31
+137,574,50,Allergy,Surgery,3523,2025-11-14
+138,898,10,Heart Disease,Medication,19967,2025-07-20
+139,489,86,COVID-19,Surgery,3336,2025-06-17
+140,374,61,COVID-19,Medication,2208,2025-07-30
+141,305,69,COVID-19,Therapy,18482,2025-10-06
+142,423,51,Migraine,Medication,676,2025-01-03
+143,449,6,Migraine,Therapy,3159,2025-02-01
+144,391,78,Allergy,Therapy,11336,2025-02-20
+145,323,78,Fracture,Consultation,5819,2025-09-12
+146,752,76,Heart Disease,Consultation,3808,2025-03-17
+147,173,18,Heart Disease,Therapy,5556,2024-12-24
+148,294,120,Migraine,Consultation,18298,2025-02-28
+149,448,146,COVID-19,Therapy,18307,2025-11-07
+150,349,12,Diabetes,Medication,598,2025-03-18
+151,765,9,Fracture,Consultation,16409,2025-08-19
+152,53,149,Diabetes,Therapy,15671,2025-01-02
+153,454,92,Migraine,Medication,4484,2025-10-05
+154,318,44,Heart Disease,Surgery,10101,2025-12-01
+155,187,37,Diabetes,Therapy,7018,2025-09-27
+156,376,7,Heart Disease,Consultation,1942,2025-06-04
+157,246,139,Heart Disease,Surgery,17534,2025-10-17
+158,544,21,Migraine,Therapy,7614,2025-09-14
+159,563,109,Diabetes,Therapy,2641,2025-04-10
+160,556,124,Migraine,Surgery,9442,2025-04-22
+161,322,14,Fracture,Medication,8552,2024-12-19
+162,721,92,Fracture,Medication,1565,2025-07-09
+163,353,93,Migraine,Consultation,17770,2025-06-15
+164,284,149,Diabetes,Surgery,3880,2025-07-22
+165,272,23,Migraine,Consultation,4033,2025-01-08
+166,239,109,Heart Disease,Consultation,10487,2025-03-24
+167,517,135,COVID-19,Consultation,8250,2025-05-14
+168,732,47,Diabetes,Surgery,8352,2024-12-16
+169,930,133,COVID-19,Medication,8592,2025-09-20
+170,846,129,COVID-19,Surgery,12789,2025-04-01
+171,926,120,Diabetes,Medication,7866,2025-02-18
+172,859,19,Migraine,Surgery,3751,2025-10-04
+173,644,9,Allergy,Therapy,18201,2025-02-19
+174,385,110,Allergy,Medication,12534,2025-06-01
+175,147,112,Fracture,Medication,1173,2025-07-15
+176,279,28,Fracture,Consultation,11777,2025-11-01
+177,799,19,Migraine,Therapy,10596,2025-11-11
+178,20,104,COVID-19,Therapy,6371,2025-01-13
+179,558,71,COVID-19,Therapy,19030,2025-03-12
+180,236,2,Allergy,Surgery,8474,2025-07-17
+181,615,10,Heart Disease,Surgery,7951,2024-12-04
+182,725,98,Migraine,Consultation,6046,2025-03-15
+183,72,65,Heart Disease,Therapy,12951,2025-01-05
+184,711,67,Diabetes,Medication,14676,2025-11-22
+185,211,145,Diabetes,Therapy,12961,2025-08-21
+186,908,97,Allergy,Therapy,15175,2025-01-02
+187,815,50,Fracture,Consultation,7217,2025-08-05
+188,574,125,Fracture,Therapy,2969,2024-12-21
+189,342,2,Diabetes,Surgery,19381,2025-02-19
+190,614,102,Migraine,Medication,5606,2025-04-05
+191,165,28,Diabetes,Therapy,13822,2025-04-24
+192,252,142,Heart Disease,Therapy,5032,2025-04-20
+193,529,17,Allergy,Medication,2980,2025-07-22
+194,596,117,Diabetes,Consultation,14804,2025-11-01
+195,150,58,Diabetes,Medication,995,2025-08-20
+196,476,140,Fracture,Consultation,12878,2025-02-02
+197,102,148,Heart Disease,Therapy,2862,2025-11-01
+198,440,84,COVID-19,Medication,19803,2025-03-11
+199,420,67,Migraine,Consultation,4794,2025-07-31
+200,275,44,Migraine,Consultation,7756,2025-08-18
+201,570,74,Fracture,Surgery,13303,2025-05-26
+202,744,51,Allergy,Surgery,11212,2025-04-12
+203,416,138,COVID-19,Medication,1711,2025-03-06
+204,398,8,Heart Disease,Surgery,10536,2025-05-26
+205,215,39,COVID-19,Medication,18333,2025-05-30
+206,983,92,Migraine,Therapy,639,2025-05-14
+207,9,93,Allergy,Surgery,14179,2025-07-31
+208,615,7,COVID-19,Surgery,8789,2025-11-29
+209,677,53,Fracture,Medication,13205,2025-04-30
+210,334,92,Fracture,Therapy,7551,2024-12-10
+211,408,64,Allergy,Consultation,9884,2025-05-20
+212,796,45,Heart Disease,Consultation,13448,2025-11-03
+213,605,66,Allergy,Therapy,774,2025-02-25
+214,13,128,Fracture,Therapy,11965,2025-09-16
+215,658,106,Diabetes,Surgery,8685,2025-09-06
+216,753,139,Heart Disease,Therapy,2037,2025-11-08
+217,108,49,Heart Disease,Therapy,16691,2025-05-22
+218,318,94,Diabetes,Consultation,5773,2025-04-11
+219,139,118,Heart Disease,Medication,16311,2025-07-04
+220,96,25,Diabetes,Medication,2184,2025-02-12
+221,832,85,Diabetes,Medication,15425,2025-03-16
+222,809,85,Fracture,Surgery,8833,2025-03-10
+223,681,118,Migraine,Therapy,17016,2025-04-19
+224,685,146,COVID-19,Medication,7629,2025-10-05
+225,70,96,Fracture,Therapy,17252,2025-06-10
+226,273,113,Fracture,Surgery,2418,2025-03-29
+227,865,144,Migraine,Medication,14491,2025-09-02
+228,41,23,COVID-19,Surgery,17325,2025-05-05
+229,975,144,Diabetes,Therapy,12717,2025-08-19
+230,14,9,Heart Disease,Medication,1272,2025-10-09
+231,483,40,Allergy,Medication,17055,2025-04-14
+232,812,142,COVID-19,Medication,9003,2025-04-15
+233,809,96,Heart Disease,Therapy,16876,2025-01-30
+234,660,105,COVID-19,Therapy,10705,2025-07-19
+235,202,54,COVID-19,Consultation,8490,2025-02-18
+236,734,33,Heart Disease,Consultation,878,2025-01-11
+237,162,111,COVID-19,Consultation,5995,2025-06-05
+238,324,135,COVID-19,Surgery,6801,2025-09-16
+239,20,48,Diabetes,Therapy,13883,2025-08-23
+240,826,22,Diabetes,Surgery,7191,2025-05-23
+241,276,73,COVID-19,Consultation,11204,2025-11-06
+242,562,11,Allergy,Medication,1009,2025-08-29
+243,979,23,Diabetes,Consultation,10366,2025-02-23
+244,881,12,Fracture,Consultation,7595,2024-12-28
+245,112,30,COVID-19,Medication,5103,2025-03-26
+246,696,139,Allergy,Therapy,5371,2025-01-15
+247,357,121,COVID-19,Consultation,3711,2025-07-28
+248,804,131,Fracture,Medication,1462,2025-09-08
+249,933,14,COVID-19,Consultation,16696,2025-02-21
+250,495,33,Migraine,Medication,1120,2025-05-02
+251,800,89,Allergy,Surgery,9899,2025-03-19
+252,792,30,Fracture,Therapy,10740,2025-01-16
+253,476,80,Allergy,Therapy,9786,2025-10-28
+254,487,105,Heart Disease,Consultation,17113,2025-01-14
+255,175,52,Migraine,Therapy,5376,2025-02-21
+256,997,64,Diabetes,Therapy,14845,2025-09-03
+257,295,111,COVID-19,Consultation,11217,2025-01-20
+258,795,36,Allergy,Medication,15243,2025-02-06
+259,346,79,COVID-19,Consultation,5531,2025-07-22
+260,829,3,Fracture,Consultation,5548,2025-11-26
+261,22,77,Heart Disease,Surgery,5372,2025-07-16
+262,767,11,Diabetes,Surgery,11959,2025-05-04
+263,374,85,Migraine,Therapy,5392,2025-06-23
+264,496,1,Diabetes,Medication,19009,2025-02-01
+265,194,147,Heart Disease,Consultation,14088,2024-12-04
+266,2,32,Diabetes,Therapy,17001,2025-10-04
+267,957,48,Diabetes,Consultation,626,2025-03-25
+268,410,33,Diabetes,Medication,18035,2025-05-06
+269,985,34,Diabetes,Surgery,5077,2025-05-15
+270,1,113,Diabetes,Therapy,12989,2025-04-13
+271,655,19,Allergy,Surgery,19132,2025-10-10
+272,679,15,COVID-19,Surgery,10755,2025-09-10
+273,746,81,Diabetes,Medication,5885,2025-09-11
+274,510,134,Diabetes,Consultation,8313,2025-01-03
+275,644,90,Allergy,Therapy,12347,2025-05-28
+276,687,135,Allergy,Consultation,18117,2025-03-05
+277,455,131,Diabetes,Therapy,5181,2025-04-24
+278,772,78,Migraine,Consultation,14974,2025-05-05
+279,418,15,Heart Disease,Consultation,3766,2025-01-25
+280,910,107,Allergy,Medication,9464,2025-05-03
+281,587,107,COVID-19,Therapy,12787,2025-01-05
+282,576,56,Fracture,Medication,18225,2025-09-19
+283,406,86,Diabetes,Surgery,13158,2025-01-26
+284,184,109,Heart Disease,Surgery,10695,2025-08-02
+285,519,90,COVID-19,Therapy,16404,2025-05-03
+286,539,72,Diabetes,Consultation,17426,2025-02-20
+287,340,68,Allergy,Medication,10829,2024-12-11
+288,134,66,COVID-19,Consultation,12100,2025-08-16
+289,967,36,Heart Disease,Therapy,6528,2024-12-27
+290,278,97,COVID-19,Medication,19881,2025-03-14
+291,899,121,Heart Disease,Medication,17125,2025-09-17
+292,251,138,Diabetes,Therapy,12531,2025-08-04
+293,554,108,Diabetes,Therapy,16799,2025-11-05
+294,172,71,Allergy,Medication,1925,2025-03-27
+295,829,123,Allergy,Medication,4406,2025-02-19
+296,790,128,Heart Disease,Consultation,301,2025-11-14
+297,799,134,Allergy,Consultation,6951,2025-07-16
+298,260,69,Diabetes,Surgery,12882,2025-11-27
+299,202,131,Diabetes,Surgery,14600,2024-12-29
+300,922,120,Allergy,Therapy,3012,2025-09-27
+301,947,108,Heart Disease,Therapy,9650,2024-12-05
+302,447,127,Fracture,Consultation,7799,2025-01-09
+303,489,125,Diabetes,Surgery,19746,2025-03-27
+304,776,121,COVID-19,Medication,11130,2025-02-05
+305,146,42,Migraine,Therapy,6609,2025-05-01
+306,754,138,Fracture,Consultation,18827,2025-08-10
+307,768,105,Diabetes,Therapy,10609,2025-01-28
+308,482,16,Diabetes,Surgery,19960,2025-09-14
+309,950,119,Diabetes,Medication,19042,2025-05-28
+310,234,122,Heart Disease,Consultation,4562,2025-02-10
+311,792,150,COVID-19,Medication,18267,2025-11-21
+312,583,58,Fracture,Surgery,4836,2025-11-14
+313,569,83,COVID-19,Surgery,18486,2024-12-07
+314,705,45,Fracture,Consultation,4094,2024-12-05
+315,760,16,Migraine,Surgery,7003,2025-06-07
+316,962,45,Allergy,Consultation,19407,2025-02-22
+317,442,1,Heart Disease,Medication,9298,2025-02-14
+318,597,5,Allergy,Medication,1134,2025-08-18
+319,624,56,Diabetes,Surgery,15044,2025-11-12
+320,401,116,Fracture,Surgery,1061,2025-01-29
+321,889,46,Heart Disease,Surgery,8611,2024-12-04
+322,50,10,Migraine,Surgery,14033,2025-09-23
+323,590,133,Migraine,Medication,2517,2025-07-30
+324,702,89,Diabetes,Medication,17070,2025-06-17
+325,889,47,Allergy,Consultation,10611,2025-11-23
+326,684,144,Migraine,Surgery,3905,2025-05-12
+327,40,121,Allergy,Surgery,13791,2025-01-29
+328,863,88,Allergy,Surgery,4741,2025-10-02
+329,33,71,Heart Disease,Therapy,18935,2025-05-25
+330,154,141,COVID-19,Consultation,3177,2024-12-12
+331,10,148,Fracture,Medication,2286,2025-04-04
+332,551,44,Heart Disease,Consultation,5561,2025-11-28
+333,534,49,Heart Disease,Therapy,16634,2025-11-23
+334,230,18,COVID-19,Medication,12344,2025-09-29
+335,677,101,Allergy,Surgery,12666,2025-02-21
+336,151,88,Allergy,Consultation,5759,2025-08-07
+337,28,8,COVID-19,Consultation,7547,2025-07-07
+338,21,92,Migraine,Consultation,19656,2025-02-16
+339,806,32,COVID-19,Therapy,13620,2025-02-21
+340,471,84,Fracture,Consultation,11951,2025-09-11
+341,762,129,Heart Disease,Surgery,10448,2025-05-13
+342,54,14,Migraine,Therapy,1701,2025-10-10
+343,143,76,Fracture,Consultation,448,2025-04-04
+344,1000,44,Diabetes,Surgery,17487,2025-05-10
+345,606,147,Allergy,Surgery,8402,2025-02-18
+346,401,112,COVID-19,Surgery,9094,2025-02-06
+347,258,3,COVID-19,Therapy,651,2025-01-31
+348,640,145,Fracture,Therapy,16804,2025-02-03
+349,619,83,Diabetes,Therapy,12789,2025-05-29
+350,596,22,COVID-19,Consultation,5826,2025-09-18
+351,940,131,Allergy,Therapy,14748,2025-05-12
+352,861,149,Allergy,Therapy,8500,2025-05-30
+353,831,51,COVID-19,Medication,9254,2025-04-21
+354,403,96,Allergy,Medication,14360,2025-11-14
+355,361,28,Migraine,Consultation,13262,2025-03-18
+356,958,94,Migraine,Therapy,19028,2025-05-30
+357,219,103,Migraine,Medication,4860,2025-07-02
+358,773,129,Allergy,Consultation,8466,2025-09-01
+359,192,61,Diabetes,Therapy,18767,2025-09-20
+360,418,117,Diabetes,Therapy,4992,2025-03-21
+361,651,64,Diabetes,Surgery,13876,2025-05-09
+362,62,10,COVID-19,Surgery,14578,2025-03-04
+363,295,8,Fracture,Medication,4428,2025-01-07
+364,450,53,Migraine,Surgery,9834,2025-06-10
+365,485,99,Heart Disease,Surgery,10520,2025-10-17
+366,400,18,Diabetes,Surgery,4535,2025-01-11
+367,142,119,Heart Disease,Consultation,571,2025-10-03
+368,233,45,Heart Disease,Medication,3439,2025-10-21
+369,70,24,Allergy,Therapy,4597,2025-02-15
+370,843,93,Heart Disease,Surgery,3615,2025-10-13
+371,425,99,Diabetes,Medication,966,2025-09-15
+372,907,146,Heart Disease,Medication,6964,2025-08-18
+373,207,129,Allergy,Consultation,12997,2025-02-18
+374,841,58,Heart Disease,Surgery,789,2025-01-14
+375,765,17,Allergy,Surgery,4540,2025-04-29
+376,165,2,Migraine,Therapy,17075,2025-03-31
+377,842,149,Migraine,Surgery,10759,2025-11-26
+378,915,9,Allergy,Surgery,12093,2025-08-04
+379,151,113,Migraine,Consultation,1248,2025-01-23
+380,82,112,Fracture,Therapy,5277,2025-09-19
+381,647,71,Migraine,Therapy,15455,2025-03-02
+382,747,100,Fracture,Consultation,15648,2025-11-07
+383,478,105,Allergy,Consultation,16154,2025-08-09
+384,473,92,Heart Disease,Medication,3915,2025-06-13
+385,317,150,COVID-19,Consultation,13120,2025-05-05
+386,633,124,Allergy,Consultation,6488,2025-04-05
+387,252,2,COVID-19,Surgery,5805,2025-04-16
+388,364,39,Heart Disease,Therapy,5251,2025-04-12
+389,791,148,Migraine,Consultation,1088,2025-08-26
+390,612,67,Allergy,Therapy,4442,2025-08-31
+391,619,26,Fracture,Consultation,14651,2025-02-13
+392,125,23,COVID-19,Medication,3778,2024-12-28
+393,956,22,Fracture,Therapy,1072,2025-07-25
+394,335,14,Fracture,Surgery,4713,2025-02-02
+395,151,13,Allergy,Consultation,18759,2025-11-02
+396,844,81,Fracture,Surgery,11282,2025-01-29
+397,785,135,Migraine,Therapy,5032,2025-03-30
+398,127,142,Diabetes,Therapy,9665,2025-09-17
+399,575,14,Diabetes,Surgery,8215,2025-06-19
+400,206,150,Migraine,Medication,3487,2025-07-22
+401,31,129,Allergy,Consultation,10702,2025-02-18
+402,232,12,Migraine,Consultation,18587,2025-02-11
+403,743,57,Fracture,Surgery,9555,2025-11-13
+404,457,140,Migraine,Consultation,17500,2025-08-11
+405,406,78,Fracture,Consultation,1253,2025-06-07
+406,488,112,Migraine,Surgery,6857,2025-11-21
+407,929,144,Diabetes,Consultation,17605,2025-06-22
+408,173,60,Diabetes,Surgery,12000,2025-07-09
+409,730,4,COVID-19,Consultation,13025,2025-02-06
+410,584,70,Migraine,Therapy,9835,2025-10-23
+411,860,110,COVID-19,Therapy,7574,2025-11-11
+412,186,68,COVID-19,Surgery,12754,2025-09-23
+413,136,47,Fracture,Therapy,11069,2025-07-07
+414,930,34,Heart Disease,Consultation,19632,2025-03-15
+415,717,3,Allergy,Consultation,5653,2025-10-16
+416,256,66,COVID-19,Medication,6157,2025-10-08
+417,314,40,Diabetes,Medication,4301,2025-03-05
+418,944,80,COVID-19,Surgery,16006,2024-12-13
+419,347,135,Heart Disease,Surgery,17112,2025-01-18
+420,236,47,Allergy,Medication,5749,2025-10-08
+421,10,58,Fracture,Medication,9519,2024-12-20
+422,427,99,Fracture,Surgery,19341,2025-07-02
+423,606,49,Fracture,Medication,1075,2025-09-18
+424,242,66,Migraine,Consultation,12347,2025-01-29
+425,826,119,Diabetes,Therapy,10592,2025-03-09
+426,317,11,Heart Disease,Consultation,19553,2025-05-07
+427,520,72,Heart Disease,Surgery,14074,2025-03-15
+428,641,20,Diabetes,Surgery,4607,2025-05-01
+429,634,117,Diabetes,Therapy,15288,2024-12-17
+430,66,82,Heart Disease,Consultation,2490,2025-02-24
+431,694,133,Allergy,Consultation,2777,2025-10-21
+432,32,128,Fracture,Consultation,6095,2025-07-18
+433,197,113,COVID-19,Therapy,16800,2025-01-08
+434,659,84,Migraine,Surgery,6623,2024-12-20
+435,59,41,Fracture,Medication,16692,2025-02-01
+436,313,49,Allergy,Therapy,13774,2025-02-13
+437,604,88,Diabetes,Surgery,16666,2025-02-15
+438,861,1,COVID-19,Consultation,4883,2025-01-24
+439,778,66,Diabetes,Therapy,15075,2025-09-20
+440,742,73,Diabetes,Consultation,1974,2025-05-23
+441,762,53,Fracture,Therapy,14723,2025-11-29
+442,516,118,Allergy,Medication,3016,2025-09-19
+443,423,147,Heart Disease,Medication,18156,2025-04-09
+444,243,57,Fracture,Surgery,10771,2025-08-14
+445,618,59,Allergy,Consultation,14651,2025-07-19
+446,146,73,Migraine,Therapy,5704,2025-02-19
+447,637,32,Allergy,Consultation,15258,2025-11-02
+448,255,125,Heart Disease,Medication,19356,2025-11-19
+449,525,122,Fracture,Surgery,15550,2025-03-02
+450,466,98,Heart Disease,Consultation,3038,2025-02-05
+451,371,26,Allergy,Medication,12069,2025-11-20
+452,552,3,Allergy,Therapy,19321,2025-02-04
+453,356,149,Allergy,Surgery,3271,2025-08-21
+454,945,115,Heart Disease,Consultation,14057,2025-11-17
+455,94,94,Fracture,Surgery,2199,2025-05-27
+456,672,40,Allergy,Surgery,7552,2025-02-27
+457,702,83,Fracture,Medication,5281,2024-12-13
+458,192,53,Heart Disease,Surgery,11117,2025-10-09
+459,215,136,COVID-19,Consultation,4448,2025-10-06
+460,744,131,Fracture,Therapy,1190,2025-10-19
+461,118,78,Allergy,Medication,10361,2025-02-17
+462,623,143,Heart Disease,Surgery,12172,2025-06-11
+463,797,12,COVID-19,Therapy,18984,2025-11-22
+464,981,123,Migraine,Surgery,769,2025-05-27
+465,237,119,Migraine,Consultation,14215,2025-01-06
+466,246,87,Migraine,Therapy,1976,2025-02-06
+467,743,62,COVID-19,Therapy,5334,2025-06-25
+468,866,140,Allergy,Surgery,7085,2025-03-07
+469,721,63,Diabetes,Medication,15483,2025-02-20
+470,480,4,Allergy,Medication,7015,2025-11-11
+471,718,28,Heart Disease,Surgery,14815,2025-10-24
+472,587,148,Heart Disease,Medication,11079,2024-12-13
+473,237,49,Allergy,Therapy,13428,2025-02-21
+474,808,143,Allergy,Surgery,11682,2024-12-31
+475,849,35,Heart Disease,Medication,9960,2025-07-26
+476,76,53,Fracture,Surgery,15388,2025-09-12
+477,336,43,Diabetes,Consultation,12102,2025-09-23
+478,157,90,Heart Disease,Therapy,18302,2025-08-08
+479,374,39,Fracture,Medication,19743,2025-11-05
+480,979,85,Allergy,Medication,19450,2025-10-08
+481,614,49,Allergy,Therapy,4759,2025-02-27
+482,734,31,Allergy,Therapy,5487,2025-10-04
+483,479,60,COVID-19,Consultation,5945,2025-02-03
+484,474,44,Allergy,Medication,13297,2025-07-25
+485,720,123,Fracture,Therapy,14742,2025-01-24
+486,269,96,Migraine,Therapy,13222,2025-06-24
+487,988,95,Allergy,Medication,17933,2025-11-11
+488,119,22,Heart Disease,Therapy,9669,2025-02-16
+489,96,141,Allergy,Consultation,540,2025-05-19
+490,234,5,Fracture,Therapy,12042,2025-10-05
+491,103,69,Diabetes,Therapy,19127,2025-04-23
+492,437,9,Diabetes,Consultation,9284,2025-09-27
+493,307,146,Heart Disease,Surgery,3374,2025-04-24
+494,375,103,Migraine,Consultation,10777,2025-01-04
+495,121,15,Diabetes,Medication,1522,2025-06-30
+496,803,120,Allergy,Medication,10492,2025-08-12
+497,651,68,COVID-19,Consultation,13528,2025-06-05
+498,451,50,Fracture,Medication,8799,2025-04-01
+499,287,92,Fracture,Therapy,15494,2025-06-17
+500,413,122,Fracture,Therapy,9792,2025-01-31
+501,695,80,COVID-19,Surgery,7477,2025-07-04
+502,73,129,Diabetes,Consultation,8880,2025-05-15
+503,533,92,COVID-19,Therapy,14954,2025-01-09
+504,653,17,Migraine,Surgery,4413,2025-01-26
+505,964,94,Allergy,Surgery,16012,2025-10-04
+506,769,126,COVID-19,Therapy,3873,2025-09-25
+507,953,41,Migraine,Consultation,6451,2025-05-30
+508,991,110,Migraine,Consultation,19331,2025-10-05
+509,764,138,Fracture,Therapy,13451,2025-03-29
+510,95,130,Diabetes,Medication,15036,2025-05-30
+511,254,69,Heart Disease,Medication,15310,2024-12-25
+512,776,6,Diabetes,Consultation,6833,2025-05-21
+513,952,42,Allergy,Medication,13941,2025-09-01
+514,272,127,Diabetes,Therapy,5197,2025-03-15
+515,991,43,Migraine,Medication,11646,2025-06-24
+516,168,104,Diabetes,Medication,19209,2025-10-26
+517,941,134,Fracture,Medication,10146,2025-04-27
+518,860,101,COVID-19,Therapy,1231,2025-06-30
+519,201,52,Allergy,Therapy,19226,2025-07-02
+520,852,114,Heart Disease,Surgery,13549,2025-06-06
+521,753,96,Migraine,Surgery,15737,2025-02-21
+522,76,10,Allergy,Medication,14269,2025-08-14
+523,631,74,Diabetes,Surgery,216,2025-06-19
+524,614,16,Heart Disease,Medication,2346,2025-02-14
+525,578,14,Allergy,Medication,2251,2024-12-19
+526,311,121,Allergy,Consultation,16255,2025-04-25
+527,332,32,Heart Disease,Surgery,6751,2025-01-10
+528,894,18,Diabetes,Therapy,12405,2025-04-29
+529,817,7,Heart Disease,Medication,3937,2025-11-06
+530,259,93,Diabetes,Medication,18652,2025-11-15
+531,686,6,Fracture,Surgery,10260,2025-09-05
+532,115,26,Allergy,Therapy,18177,2025-10-31
+533,507,42,COVID-19,Therapy,5869,2025-01-30
+534,19,20,Migraine,Therapy,13017,2025-03-24
+535,673,104,Fracture,Therapy,4984,2024-12-14
+536,476,60,Heart Disease,Therapy,16831,2025-11-11
+537,752,119,COVID-19,Medication,10731,2025-10-13
+538,700,102,Fracture,Medication,17642,2025-05-17
+539,906,130,Diabetes,Therapy,5250,2025-01-20
+540,480,113,Allergy,Therapy,8881,2025-01-26
+541,918,108,Migraine,Therapy,16578,2025-11-06
+542,904,83,Migraine,Medication,19814,2025-04-02
+543,587,52,COVID-19,Medication,18836,2025-09-20
+544,844,127,COVID-19,Surgery,19055,2024-12-19
+545,582,83,COVID-19,Therapy,9449,2025-02-18
+546,225,123,Diabetes,Therapy,8643,2025-07-25
+547,84,119,Heart Disease,Therapy,2021,2025-03-17
+548,215,7,Diabetes,Consultation,10766,2024-12-26
+549,858,111,Heart Disease,Surgery,4620,2025-04-20
+550,49,85,Migraine,Consultation,3529,2025-08-06
+551,244,9,Fracture,Consultation,10501,2025-05-30
+552,21,11,Fracture,Surgery,11607,2025-08-28
+553,644,148,Fracture,Consultation,17198,2025-11-16
+554,964,92,COVID-19,Medication,8770,2025-03-02
+555,805,104,Allergy,Consultation,3412,2025-03-24
+556,72,93,Diabetes,Surgery,13709,2025-01-01
+557,907,126,COVID-19,Therapy,1250,2025-10-06
+558,387,66,Migraine,Consultation,563,2025-07-21
+559,343,113,Fracture,Medication,18533,2025-11-03
+560,108,89,Migraine,Therapy,12035,2025-12-03
+561,586,107,COVID-19,Therapy,18985,2025-09-28
+562,340,75,Allergy,Surgery,4854,2025-10-21
+563,911,138,Allergy,Surgery,18563,2024-12-07
+564,241,99,Heart Disease,Medication,10372,2025-06-05
+565,779,141,Fracture,Consultation,2000,2025-07-06
+566,561,54,Diabetes,Medication,4128,2025-05-26
+567,808,52,Diabetes,Surgery,18469,2025-11-03
+568,178,78,COVID-19,Medication,12562,2025-09-17
+569,341,65,Allergy,Medication,19230,2024-12-17
+570,159,65,COVID-19,Medication,12639,2025-02-02
+571,570,16,Heart Disease,Medication,13698,2025-09-03
+572,895,128,COVID-19,Surgery,7213,2025-03-30
+573,854,150,Fracture,Therapy,11641,2025-06-27
+574,310,61,Diabetes,Therapy,8935,2025-08-05
+575,205,45,Heart Disease,Consultation,8754,2025-02-28
+576,116,103,Migraine,Consultation,5480,2025-07-15
+577,524,22,Migraine,Consultation,3090,2025-02-23
+578,207,132,Heart Disease,Therapy,8964,2025-10-06
+579,331,140,Migraine,Surgery,3417,2025-03-27
+580,308,86,COVID-19,Therapy,19944,2025-09-27
+581,34,46,Diabetes,Surgery,11023,2025-06-10
+582,977,79,Migraine,Medication,15476,2025-06-06
+583,990,55,Diabetes,Medication,3812,2025-02-24
+584,952,17,Heart Disease,Consultation,17014,2025-07-28
+585,464,125,Heart Disease,Medication,8414,2025-11-07
+586,398,50,Fracture,Surgery,5022,2025-11-11
+587,653,150,Fracture,Surgery,14453,2025-05-21
+588,134,45,Migraine,Consultation,10500,2025-02-12
+589,254,1,Fracture,Consultation,1223,2025-06-11
+590,813,103,Migraine,Medication,11519,2025-09-16
+591,528,95,Heart Disease,Medication,18109,2025-03-07
+592,67,105,COVID-19,Medication,18722,2025-06-21
+593,266,106,Diabetes,Consultation,4189,2025-02-13
+594,374,74,Heart Disease,Therapy,8326,2025-06-27
+595,251,21,Heart Disease,Consultation,1967,2025-11-15
+596,621,6,Diabetes,Medication,7213,2025-09-27
+597,701,53,Allergy,Medication,10486,2025-06-24
+598,339,99,Fracture,Surgery,3650,2025-03-25
+599,211,134,Diabetes,Surgery,4571,2025-12-02
+600,237,35,Diabetes,Surgery,6789,2025-01-21
+601,668,67,COVID-19,Medication,16434,2025-06-03
+602,415,118,Migraine,Therapy,2896,2025-06-11
+603,847,89,COVID-19,Therapy,17544,2025-04-15
+604,447,146,Allergy,Therapy,4883,2025-07-03
+605,481,106,Migraine,Consultation,17250,2025-03-08
+606,708,138,Allergy,Therapy,12764,2025-04-19
+607,280,146,Allergy,Medication,9555,2025-03-14
+608,863,122,Migraine,Therapy,13559,2025-02-08
+609,959,38,Diabetes,Therapy,10465,2025-06-12
+610,477,17,Heart Disease,Surgery,18523,2025-09-22
+611,731,88,Fracture,Surgery,9250,2025-04-27
+612,706,104,Diabetes,Surgery,14276,2025-04-15
+613,701,38,Allergy,Therapy,17568,2025-02-02
+614,226,108,Diabetes,Surgery,2334,2025-06-06
+615,390,49,Heart Disease,Therapy,5492,2025-06-08
+616,579,55,Diabetes,Surgery,15286,2025-10-30
+617,565,69,COVID-19,Medication,15302,2024-12-31
+618,3,127,Heart Disease,Therapy,4177,2025-03-09
+619,781,142,Fracture,Surgery,10254,2025-04-12
+620,80,18,Fracture,Medication,9908,2025-08-05
+621,680,141,COVID-19,Therapy,18142,2025-09-17
+622,736,83,Allergy,Consultation,3191,2025-10-26
+623,728,10,Allergy,Medication,11869,2025-06-30
+624,446,42,Diabetes,Therapy,11376,2024-12-13
+625,53,148,Migraine,Medication,11026,2025-08-26
+626,91,35,Heart Disease,Surgery,15451,2025-04-16
+627,401,65,Fracture,Consultation,2607,2025-05-30
+628,275,72,Diabetes,Therapy,6547,2025-06-14
+629,544,120,Diabetes,Consultation,226,2025-11-05
+630,762,74,Diabetes,Surgery,8182,2025-11-01
+631,716,11,Heart Disease,Consultation,17246,2025-08-12
+632,749,85,Allergy,Consultation,17890,2025-09-23
+633,848,123,Allergy,Therapy,14570,2025-11-27
+634,602,127,COVID-19,Therapy,3708,2025-05-06
+635,310,16,Diabetes,Consultation,7489,2025-02-24
+636,754,119,Diabetes,Medication,4194,2025-08-19
+637,624,140,Migraine,Therapy,18044,2024-12-13
+638,156,110,Allergy,Medication,16246,2025-04-11
+639,139,74,Diabetes,Medication,10498,2025-10-26
+640,335,71,Diabetes,Surgery,19841,2025-09-13
+641,289,30,COVID-19,Consultation,10538,2025-09-29
+642,618,80,Allergy,Consultation,19362,2025-06-28
+643,105,143,Heart Disease,Therapy,4658,2025-07-31
+644,627,128,Migraine,Therapy,15704,2025-06-06
+645,385,79,Migraine,Medication,4238,2025-11-21
+646,150,78,Diabetes,Consultation,17407,2025-09-08
+647,457,33,Diabetes,Medication,1284,2025-10-16
+648,723,118,Allergy,Medication,18868,2025-02-08
+649,371,124,Heart Disease,Therapy,7195,2025-07-07
+650,979,135,Diabetes,Consultation,2151,2025-03-04
+651,755,42,Fracture,Surgery,7444,2025-04-29
+652,350,119,Fracture,Surgery,12277,2025-09-20
+653,542,99,Allergy,Consultation,9923,2025-11-23
+654,796,62,Fracture,Medication,6181,2025-04-11
+655,558,116,Heart Disease,Therapy,11182,2025-08-31
+656,892,32,Allergy,Consultation,11615,2025-01-18
+657,300,7,Fracture,Medication,3116,2025-10-11
+658,985,27,COVID-19,Therapy,15558,2025-06-05
+659,861,40,Migraine,Surgery,13493,2025-05-06
+660,132,42,Heart Disease,Surgery,1150,2025-10-06
+661,485,50,Migraine,Consultation,12476,2025-07-20
+662,906,133,Fracture,Consultation,3426,2025-11-27
+663,539,109,COVID-19,Consultation,14497,2025-09-19
+664,290,83,Heart Disease,Surgery,662,2025-08-01
+665,604,81,Heart Disease,Therapy,18020,2025-09-24
+666,722,22,COVID-19,Surgery,9418,2025-07-25
+667,456,42,COVID-19,Medication,14257,2025-02-01
+668,574,41,COVID-19,Consultation,16282,2025-12-03
+669,717,4,Fracture,Therapy,5421,2025-05-23
+670,222,150,Diabetes,Surgery,10979,2025-07-19
+671,238,80,COVID-19,Medication,12349,2025-01-10
+672,595,147,Fracture,Medication,5779,2024-12-29
+673,243,127,Fracture,Medication,18558,2025-10-03
+674,943,150,Migraine,Medication,9347,2025-11-29
+675,759,117,Migraine,Consultation,1076,2025-03-27
+676,688,78,COVID-19,Therapy,6132,2025-02-28
+677,689,7,Diabetes,Medication,18647,2025-05-12
+678,403,10,Migraine,Surgery,7779,2025-06-02
+679,43,22,Diabetes,Medication,15664,2025-03-22
+680,402,26,Allergy,Consultation,7799,2025-07-04
+681,675,41,Migraine,Medication,6216,2025-05-12
+682,585,104,Heart Disease,Therapy,11095,2024-12-13
+683,258,147,Fracture,Surgery,11074,2025-06-21
+684,4,134,Heart Disease,Surgery,14861,2025-01-31
+685,206,38,Migraine,Consultation,5269,2025-07-13
+686,756,122,Allergy,Therapy,15413,2025-06-28
+687,73,81,Heart Disease,Surgery,13917,2025-11-26
+688,297,122,Allergy,Surgery,5849,2025-05-10
+689,761,12,Heart Disease,Consultation,17599,2025-06-05
+690,732,26,Migraine,Medication,4241,2025-03-20
+691,4,74,Allergy,Therapy,15180,2025-10-17
+692,14,83,Diabetes,Therapy,4767,2025-09-10
+693,3,66,Allergy,Consultation,16706,2025-11-23
+694,92,143,Allergy,Therapy,18972,2025-09-25
+695,207,82,Heart Disease,Medication,4767,2025-04-07
+696,176,64,Allergy,Surgery,13129,2025-10-24
+697,978,50,Heart Disease,Consultation,4077,2025-02-01
+698,977,72,Migraine,Consultation,10925,2025-02-24
+699,76,69,Migraine,Surgery,15265,2025-10-07
+700,568,49,COVID-19,Medication,11792,2025-08-02
+701,666,26,Allergy,Surgery,13564,2025-10-21
+702,164,124,Allergy,Consultation,14367,2025-09-29
+703,862,22,Diabetes,Consultation,19741,2025-04-10
+704,82,70,COVID-19,Surgery,12329,2025-08-09
+705,675,75,Diabetes,Medication,18423,2025-08-21
+706,263,116,Allergy,Therapy,4329,2025-04-20
+707,654,43,Allergy,Consultation,13630,2025-05-08
+708,799,48,Migraine,Therapy,6965,2025-03-03
+709,366,47,Heart Disease,Surgery,14726,2025-08-02
+710,686,133,Migraine,Consultation,1960,2025-06-15
+711,849,98,Migraine,Surgery,14635,2025-07-17
+712,330,17,COVID-19,Therapy,8201,2025-07-09
+713,70,1,COVID-19,Medication,12162,2025-04-20
+714,515,54,Migraine,Therapy,11934,2025-04-05
+715,725,28,COVID-19,Consultation,16203,2025-08-07
+716,828,67,Migraine,Therapy,18523,2025-09-04
+717,199,60,Fracture,Medication,8218,2025-01-15
+718,617,95,Heart Disease,Medication,7546,2025-05-31
+719,899,112,COVID-19,Medication,12597,2025-05-04
+720,450,130,Diabetes,Therapy,11312,2025-11-18
+721,383,53,Heart Disease,Consultation,8384,2025-03-13
+722,809,82,Allergy,Medication,15428,2025-11-27
+723,570,135,Diabetes,Medication,12264,2025-09-06
+724,276,66,Fracture,Consultation,5444,2025-05-08
+725,633,140,Fracture,Consultation,14135,2025-03-24
+726,887,94,Migraine,Surgery,5422,2025-01-28
+727,256,91,COVID-19,Surgery,19909,2025-12-03
+728,384,89,Heart Disease,Therapy,19820,2025-01-07
+729,360,24,Migraine,Surgery,16460,2025-11-16
+730,218,92,COVID-19,Surgery,19249,2025-02-03
+731,944,38,Allergy,Medication,3465,2025-10-10
+732,371,29,Diabetes,Consultation,18904,2025-07-14
+733,987,16,Diabetes,Therapy,15371,2024-12-27
+734,845,31,Migraine,Consultation,12134,2025-05-18
+735,518,127,Diabetes,Consultation,2651,2025-04-16
+736,347,118,Migraine,Therapy,17262,2025-04-13
+737,990,40,Fracture,Medication,14747,2025-11-03
+738,934,60,Heart Disease,Medication,5150,2025-01-24
+739,798,100,COVID-19,Medication,14842,2025-07-30
+740,283,87,Allergy,Therapy,7379,2025-03-26
+741,129,139,Heart Disease,Therapy,14951,2025-11-14
+742,889,83,Migraine,Surgery,17707,2025-02-04
+743,726,3,Heart Disease,Surgery,11489,2025-01-30
+744,35,32,Heart Disease,Surgery,16644,2025-05-23
+745,871,110,Allergy,Consultation,16037,2025-09-18
+746,399,72,Allergy,Therapy,13470,2025-06-24
+747,114,110,Fracture,Surgery,14377,2025-08-15
+748,869,137,Fracture,Consultation,12375,2025-01-09
+749,919,62,Heart Disease,Surgery,17849,2025-01-18
+750,1,37,Diabetes,Medication,5286,2025-07-11
+751,419,43,Allergy,Therapy,16407,2025-09-14
+752,389,122,Allergy,Consultation,14525,2025-06-06
+753,741,43,Migraine,Medication,14831,2025-10-24
+754,441,134,Fracture,Therapy,7298,2025-07-15
+755,637,80,Heart Disease,Consultation,18457,2024-12-08
+756,976,81,COVID-19,Therapy,3402,2025-11-13
+757,443,10,Fracture,Medication,6001,2025-10-26
+758,595,87,Fracture,Therapy,16557,2025-10-23
+759,187,53,COVID-19,Surgery,17734,2025-08-29
+760,717,92,Allergy,Consultation,6747,2025-07-16
+761,64,140,Diabetes,Consultation,1260,2025-10-09
+762,576,103,Fracture,Medication,14595,2025-02-11
+763,652,54,Migraine,Medication,2729,2025-01-15
+764,294,91,COVID-19,Surgery,18034,2025-05-14
+765,672,57,COVID-19,Medication,14564,2025-10-17
+766,562,28,Allergy,Surgery,12734,2025-11-05
+767,303,124,Fracture,Surgery,3365,2025-10-05
+768,887,44,Heart Disease,Therapy,19793,2024-12-30
+769,41,78,COVID-19,Surgery,19701,2025-01-21
+770,123,101,Allergy,Therapy,7028,2025-06-24
+771,97,55,Diabetes,Consultation,13295,2025-11-13
+772,31,73,Heart Disease,Therapy,7697,2025-09-06
+773,908,140,COVID-19,Medication,13225,2025-01-30
+774,634,71,Fracture,Therapy,17860,2025-10-16
+775,243,45,COVID-19,Surgery,9149,2025-06-18
+776,953,44,Allergy,Consultation,14388,2025-06-23
+777,875,120,COVID-19,Consultation,17480,2025-08-12
+778,117,78,Migraine,Therapy,6418,2025-09-30
+779,298,31,COVID-19,Medication,12458,2025-11-02
+780,526,25,COVID-19,Consultation,14047,2025-01-21
+781,781,25,Migraine,Medication,10891,2025-07-11
+782,966,79,Allergy,Therapy,1028,2025-04-26
+783,350,52,COVID-19,Therapy,13312,2025-08-02
+784,55,94,Heart Disease,Consultation,4339,2025-10-14
+785,84,143,Heart Disease,Surgery,14961,2025-05-31
+786,435,39,Allergy,Surgery,4823,2025-11-27
+787,482,99,COVID-19,Therapy,16124,2025-02-04
+788,590,1,Migraine,Therapy,9530,2025-03-27
+789,893,57,Diabetes,Surgery,3656,2025-04-11
+790,18,82,Diabetes,Therapy,19519,2025-04-04
+791,721,1,Migraine,Surgery,2837,2025-08-08
+792,437,133,Allergy,Therapy,8185,2025-06-14
+793,896,123,Heart Disease,Surgery,1101,2025-10-25
+794,700,114,Allergy,Surgery,5042,2024-12-25
+795,862,31,Migraine,Consultation,19497,2025-06-26
+796,266,36,Diabetes,Medication,15054,2025-06-12
+797,425,23,Diabetes,Surgery,15877,2025-06-13
+798,164,59,Allergy,Therapy,4492,2025-08-27
+799,191,48,Diabetes,Medication,18195,2024-12-24
+800,5,124,Migraine,Surgery,6263,2024-12-21
+801,987,36,Heart Disease,Therapy,1593,2025-04-04
+802,607,37,Heart Disease,Consultation,6401,2025-10-27
+803,55,31,Fracture,Therapy,9232,2025-09-17
+804,449,134,COVID-19,Medication,9834,2025-01-01
+805,764,128,Fracture,Medication,9776,2024-12-08
+806,817,28,Allergy,Consultation,3308,2025-12-03
+807,667,97,Migraine,Medication,15930,2025-06-06
+808,333,93,COVID-19,Therapy,5865,2025-02-04
+809,822,110,Fracture,Therapy,3839,2024-12-09
+810,39,91,Migraine,Surgery,17561,2025-10-12
+811,98,111,Fracture,Consultation,14846,2025-03-17
+812,251,100,Allergy,Consultation,8814,2025-04-21
+813,894,40,Diabetes,Medication,4245,2025-03-04
+814,893,85,Migraine,Therapy,11832,2025-04-24
+815,748,16,COVID-19,Medication,17332,2025-09-24
+816,250,5,Heart Disease,Medication,11806,2025-09-08
+817,147,39,COVID-19,Consultation,7628,2025-02-08
+818,820,13,Heart Disease,Therapy,9348,2025-09-08
+819,16,25,Fracture,Surgery,9898,2025-09-14
+820,653,116,COVID-19,Medication,11655,2025-09-20
+821,643,64,Fracture,Consultation,18589,2025-04-10
+822,207,89,Allergy,Surgery,12143,2025-07-19
+823,951,147,Allergy,Medication,9012,2025-10-08
+824,294,51,Migraine,Surgery,6309,2025-09-15
+825,79,71,Migraine,Surgery,11460,2025-09-26
+826,814,127,Heart Disease,Surgery,4024,2025-05-17
+827,94,79,COVID-19,Therapy,14079,2025-09-20
+828,380,109,Fracture,Consultation,12028,2025-07-10
+829,259,82,Fracture,Surgery,16302,2024-12-29
+830,766,52,Allergy,Surgery,10656,2025-01-24
+831,415,30,Migraine,Therapy,12173,2025-09-03
+832,710,129,Migraine,Therapy,14973,2025-04-26
+833,119,66,Fracture,Medication,3073,2025-01-25
+834,553,39,Fracture,Surgery,8017,2025-08-20
+835,967,97,Heart Disease,Medication,10571,2025-05-17
+836,997,26,Diabetes,Therapy,19862,2025-03-15
+837,257,11,Allergy,Medication,19399,2025-11-26
+838,816,22,Allergy,Therapy,4448,2025-08-26
+839,428,58,Allergy,Medication,5626,2025-08-20
+840,348,140,Migraine,Medication,18124,2024-12-26
+841,293,43,Allergy,Therapy,4431,2025-03-03
+842,600,122,Migraine,Surgery,792,2025-06-19
+843,779,82,Migraine,Therapy,10638,2025-11-08
+844,732,93,Diabetes,Surgery,6881,2025-03-12
+845,371,128,Diabetes,Therapy,15072,2025-05-07
+846,916,117,Diabetes,Therapy,4347,2025-04-08
+847,841,50,Fracture,Therapy,6696,2025-05-09
+848,253,86,Heart Disease,Consultation,17280,2025-09-03
+849,56,143,Migraine,Medication,1476,2025-05-28
+850,660,60,Heart Disease,Surgery,18330,2025-05-19
+851,958,110,Fracture,Surgery,14492,2025-05-05
+852,572,145,Allergy,Surgery,11714,2025-02-09
+853,576,82,Migraine,Medication,8330,2025-06-02
+854,862,46,Allergy,Therapy,16753,2025-11-26
+855,280,65,COVID-19,Therapy,17717,2024-12-13
+856,901,110,COVID-19,Medication,16513,2025-03-07
+857,42,85,Heart Disease,Surgery,2324,2025-04-11
+858,738,146,Fracture,Consultation,5017,2025-06-15
+859,490,136,Migraine,Consultation,7823,2025-04-04
+860,29,34,COVID-19,Therapy,3554,2025-04-16
+861,26,124,Fracture,Medication,9591,2025-08-10
+862,391,114,Heart Disease,Therapy,16102,2025-03-21
+863,7,130,Heart Disease,Medication,3482,2025-11-03
+864,765,150,Migraine,Consultation,3573,2025-05-28
+865,585,132,Migraine,Therapy,15590,2025-05-24
+866,804,43,Heart Disease,Medication,14145,2025-03-25
+867,523,64,Diabetes,Consultation,14963,2025-03-07
+868,635,13,Heart Disease,Surgery,9238,2025-03-12
+869,274,13,COVID-19,Medication,16770,2025-01-01
+870,919,129,Fracture,Medication,2995,2025-01-27
+871,304,96,Migraine,Medication,7212,2024-12-18
+872,955,119,Fracture,Therapy,8651,2025-06-24
+873,27,91,Allergy,Consultation,17903,2025-05-24
+874,571,31,Heart Disease,Consultation,10218,2025-05-30
+875,80,47,Heart Disease,Consultation,12860,2025-09-25
+876,725,105,Migraine,Surgery,694,2025-07-13
+877,104,112,Heart Disease,Surgery,19926,2025-04-02
+878,521,33,Fracture,Consultation,3160,2025-03-15
+879,47,83,Allergy,Medication,17453,2025-01-09
+880,874,15,Allergy,Consultation,2192,2025-02-06
+881,745,107,Migraine,Consultation,4608,2025-07-20
+882,649,101,Allergy,Therapy,11973,2025-06-16
+883,194,69,Migraine,Therapy,18352,2025-07-01
+884,667,27,Heart Disease,Consultation,9548,2025-04-11
+885,666,74,COVID-19,Consultation,12991,2025-08-15
+886,300,101,Diabetes,Consultation,16401,2025-05-13
+887,247,99,Fracture,Therapy,14418,2025-03-05
+888,149,53,COVID-19,Therapy,19561,2025-09-11
+889,514,66,Migraine,Surgery,14334,2025-07-23
+890,7,34,Heart Disease,Therapy,10382,2025-08-11
+891,178,30,COVID-19,Therapy,14127,2025-06-08
+892,609,38,Diabetes,Medication,6820,2025-06-10
+893,626,39,Allergy,Consultation,5738,2024-12-08
+894,506,96,COVID-19,Surgery,11811,2025-08-27
+895,844,19,Heart Disease,Medication,1579,2025-06-22
+896,687,20,Fracture,Consultation,7765,2025-05-14
+897,330,37,COVID-19,Therapy,19957,2025-10-24
+898,935,5,Migraine,Surgery,9951,2025-03-01
+899,194,7,Allergy,Consultation,4074,2025-11-17
+900,657,92,Migraine,Medication,5660,2025-09-24
+901,365,141,Heart Disease,Consultation,16441,2025-02-04
+902,758,10,Allergy,Medication,3996,2025-02-25
+903,65,116,Diabetes,Surgery,8318,2025-08-10
+904,242,12,Fracture,Medication,1611,2024-12-26
+905,716,17,Fracture,Surgery,14923,2025-04-19
+906,962,9,Allergy,Surgery,13925,2024-12-09
+907,287,25,Migraine,Surgery,5537,2025-01-08
+908,130,128,Migraine,Medication,17568,2025-09-11
+909,180,10,COVID-19,Surgery,7302,2025-11-01
+910,719,111,Heart Disease,Consultation,8943,2025-09-24
+911,286,54,COVID-19,Medication,17671,2025-07-18
+912,962,123,Allergy,Medication,18158,2025-05-10
+913,134,78,Allergy,Surgery,10824,2024-12-31
+914,569,104,Migraine,Medication,1733,2025-03-14
+915,946,145,Fracture,Surgery,8503,2025-01-21
+916,266,65,Fracture,Surgery,12037,2025-06-04
+917,696,94,Heart Disease,Surgery,1563,2025-03-10
+918,829,75,Allergy,Surgery,3409,2025-10-16
+919,411,28,Fracture,Medication,16234,2025-04-04
+920,822,66,COVID-19,Medication,15637,2025-09-26
+921,851,18,COVID-19,Surgery,7365,2025-01-15
+922,867,126,Fracture,Consultation,7240,2025-01-08
+923,43,71,COVID-19,Therapy,5469,2025-03-04
+924,572,142,Fracture,Therapy,5678,2025-01-04
+925,142,139,Fracture,Therapy,4591,2025-05-27
+926,953,84,Migraine,Consultation,13229,2025-06-20
+927,860,2,Migraine,Surgery,5643,2025-10-27
+928,631,139,Fracture,Surgery,15141,2025-11-02
+929,168,72,Fracture,Surgery,8741,2025-05-05
+930,628,150,Migraine,Medication,11912,2025-11-30
+931,348,2,Migraine,Therapy,3354,2025-01-27
+932,164,50,Allergy,Therapy,2684,2024-12-07
+933,701,12,Allergy,Surgery,8281,2025-03-06
+934,589,137,Heart Disease,Therapy,5809,2025-09-07
+935,34,61,Migraine,Medication,19987,2025-01-10
+936,505,86,Heart Disease,Consultation,2117,2025-04-22
+937,807,133,Fracture,Surgery,4672,2025-11-21
+938,486,58,COVID-19,Medication,8793,2025-11-03
+939,287,101,Migraine,Consultation,10257,2025-01-21
+940,603,82,Heart Disease,Surgery,1307,2025-03-03
+941,775,11,Migraine,Medication,10850,2025-08-29
+942,364,138,Allergy,Medication,8718,2025-11-20
+943,819,37,Diabetes,Surgery,11470,2025-08-20
+944,184,145,Allergy,Medication,17410,2025-01-02
+945,162,18,Fracture,Medication,12680,2025-01-05
+946,835,79,Migraine,Medication,19318,2025-05-31
+947,385,32,Allergy,Surgery,14704,2025-12-03
+948,966,47,Heart Disease,Therapy,14463,2024-12-04
+949,117,72,Migraine,Medication,12871,2024-12-12
+950,655,88,Diabetes,Therapy,5466,2025-11-26
+951,168,32,Heart Disease,Surgery,11759,2025-02-22
+952,657,6,Diabetes,Surgery,3971,2025-02-03
+953,273,55,Heart Disease,Surgery,17016,2024-12-16
+954,674,11,Fracture,Consultation,19900,2025-09-16
+955,980,47,Diabetes,Surgery,19428,2025-05-23
+956,91,135,Heart Disease,Consultation,2107,2025-11-04
+957,491,50,Allergy,Medication,19976,2025-02-11
+958,297,42,Diabetes,Therapy,3226,2024-12-24
+959,188,92,Migraine,Surgery,11581,2025-09-07
+960,146,35,Fracture,Medication,15557,2025-02-20
+961,60,80,Heart Disease,Consultation,18245,2024-12-05
+962,543,86,Fracture,Medication,17489,2025-11-12
+963,995,39,COVID-19,Therapy,16665,2025-05-29
+964,168,12,Fracture,Medication,9089,2025-02-06
+965,809,103,Fracture,Consultation,19056,2025-02-11
+966,996,11,Heart Disease,Surgery,18185,2025-08-22
+967,647,32,COVID-19,Surgery,12674,2025-07-22
+968,147,14,Diabetes,Therapy,2911,2025-05-25
+969,961,92,Diabetes,Surgery,6527,2025-08-11
+970,769,138,Allergy,Surgery,6292,2025-03-04
+971,836,145,Diabetes,Consultation,16816,2025-08-19
+972,324,70,Allergy,Consultation,13491,2025-07-14
+973,828,1,Allergy,Therapy,7366,2025-03-21
+974,34,44,Diabetes,Therapy,2827,2025-06-27
+975,177,78,Heart Disease,Therapy,3117,2025-02-21
+976,779,84,COVID-19,Medication,15857,2025-02-16
+977,185,33,COVID-19,Surgery,8815,2025-04-28
+978,448,11,Fracture,Consultation,4447,2025-08-01
+979,356,113,Migraine,Surgery,9576,2025-06-13
+980,937,60,Fracture,Therapy,12193,2025-08-24
+981,869,43,Migraine,Consultation,12425,2024-12-07
+982,938,95,Diabetes,Therapy,5451,2025-08-11
+983,813,96,Fracture,Surgery,19857,2024-12-06
+984,56,8,Diabetes,Therapy,1581,2025-07-05
+985,615,105,COVID-19,Surgery,7325,2025-01-01
+986,541,83,COVID-19,Therapy,3602,2025-08-04
+987,279,131,Allergy,Consultation,16584,2025-11-11
+988,7,95,Heart Disease,Consultation,19363,2025-01-09
+989,134,26,Migraine,Medication,4206,2025-07-09
+990,393,126,Migraine,Therapy,9275,2025-09-27
+991,872,20,Fracture,Consultation,9079,2025-03-14
+992,792,144,Fracture,Surgery,18897,2025-04-20
+993,442,104,Diabetes,Consultation,8468,2025-01-06
+994,544,73,Fracture,Surgery,19059,2025-11-12
+995,894,73,Migraine,Medication,15550,2025-11-02
+996,26,94,COVID-19,Surgery,17227,2025-11-16
+997,465,24,Migraine,Consultation,6152,2025-11-22
+998,393,54,Heart Disease,Surgery,16952,2025-03-31
+999,995,147,COVID-19,Medication,19708,2025-11-28
+1000,898,79,Migraine,Therapy,1335,2025-03-12
+1001,151,69,Heart Disease,Consultation,2810,2025-05-15
+1002,407,24,Fracture,Surgery,18026,2025-10-02
+1003,694,46,COVID-19,Consultation,13612,2025-01-15
+1004,866,87,Heart Disease,Therapy,16781,2025-07-08
+1005,821,62,Migraine,Consultation,5310,2025-03-12
+1006,727,58,COVID-19,Surgery,16422,2025-01-27
+1007,704,125,Heart Disease,Consultation,13169,2025-12-03
+1008,690,94,Allergy,Consultation,587,2025-02-08
+1009,448,52,Migraine,Therapy,1996,2025-04-11
+1010,854,52,Heart Disease,Surgery,4722,2025-07-09
+1011,700,71,Allergy,Medication,2528,2025-06-29
+1012,24,101,Allergy,Consultation,7712,2025-06-07
+1013,704,136,COVID-19,Consultation,4714,2024-12-22
+1014,87,64,Allergy,Therapy,7250,2025-03-10
+1015,563,29,COVID-19,Consultation,15513,2025-04-15
+1016,133,148,Allergy,Therapy,10865,2025-10-07
+1017,558,122,Fracture,Surgery,11622,2025-03-19
+1018,36,119,Migraine,Therapy,11003,2025-08-13
+1019,22,2,Migraine,Surgery,575,2025-04-03
+1020,36,107,Fracture,Medication,1701,2025-03-12
+1021,654,61,Fracture,Medication,2451,2025-01-26
+1022,717,7,Allergy,Therapy,8011,2025-06-11
+1023,25,20,Migraine,Consultation,18448,2025-03-26
+1024,867,82,COVID-19,Consultation,2026,2024-12-26
+1025,70,145,Heart Disease,Therapy,257,2025-10-17
+1026,768,130,COVID-19,Surgery,4966,2025-07-27
+1027,146,43,Migraine,Surgery,10584,2025-07-09
+1028,464,108,Heart Disease,Consultation,19858,2025-04-16
+1029,372,40,Fracture,Consultation,11696,2025-02-07
+1030,45,68,Allergy,Therapy,12554,2024-12-06
+1031,366,74,Diabetes,Consultation,6808,2024-12-23
+1032,662,142,COVID-19,Therapy,1092,2025-06-01
+1033,124,38,Diabetes,Medication,4262,2025-06-09
+1034,351,24,COVID-19,Medication,19929,2025-09-21
+1035,817,67,COVID-19,Therapy,2831,2024-12-21
+1036,51,3,COVID-19,Medication,4962,2025-04-11
+1037,59,90,Heart Disease,Consultation,10666,2025-07-03
+1038,996,82,Migraine,Therapy,2402,2025-08-06
+1039,397,17,COVID-19,Consultation,5749,2025-07-12
+1040,603,144,Heart Disease,Surgery,16554,2025-04-26
+1041,738,110,COVID-19,Consultation,8370,2025-08-29
+1042,395,133,Allergy,Medication,8601,2025-02-23
+1043,832,140,Allergy,Therapy,18622,2025-03-15
+1044,33,89,Heart Disease,Consultation,11071,2025-04-16
+1045,552,71,Diabetes,Therapy,19048,2025-08-19
+1046,286,34,Heart Disease,Medication,3632,2025-06-07
+1047,15,98,Migraine,Surgery,10863,2025-02-19
+1048,330,19,Heart Disease,Therapy,3808,2025-06-20
+1049,602,141,COVID-19,Consultation,8952,2025-11-10
+1050,378,126,Heart Disease,Consultation,18053,2025-05-08
+1051,316,25,Migraine,Surgery,1170,2025-10-29
+1052,952,5,Fracture,Medication,6512,2025-06-05
+1053,957,135,COVID-19,Medication,2088,2025-09-07
+1054,975,36,Diabetes,Medication,8347,2025-11-04
+1055,505,145,Fracture,Consultation,11295,2025-06-07
+1056,625,30,COVID-19,Therapy,1572,2025-04-27
+1057,404,37,Heart Disease,Surgery,15175,2025-02-23
+1058,936,50,Heart Disease,Therapy,14179,2025-07-11
+1059,325,90,COVID-19,Consultation,13163,2025-02-10
+1060,946,66,Fracture,Consultation,12796,2025-02-13
+1061,329,25,COVID-19,Medication,1732,2025-12-03
+1062,87,78,Fracture,Therapy,17587,2025-07-23
+1063,338,62,Diabetes,Consultation,16215,2025-03-08
+1064,5,100,Migraine,Surgery,5576,2025-08-17
+1065,372,116,Fracture,Therapy,18179,2025-01-17
+1066,889,129,Allergy,Surgery,16152,2025-03-24
+1067,946,144,Allergy,Consultation,7612,2025-06-03
+1068,695,62,Fracture,Consultation,19732,2025-03-29
+1069,136,110,Diabetes,Therapy,18591,2025-05-05
+1070,668,12,COVID-19,Medication,4516,2025-04-12
+1071,946,48,Migraine,Therapy,18660,2025-12-02
+1072,359,20,Heart Disease,Medication,14076,2025-05-29
+1073,999,83,Allergy,Medication,7752,2024-12-24
+1074,514,74,Heart Disease,Medication,17495,2025-07-14
+1075,286,98,Fracture,Therapy,13500,2025-06-10
+1076,472,128,Allergy,Therapy,13405,2025-11-18
+1077,379,13,Migraine,Consultation,11024,2025-05-06
+1078,632,34,Diabetes,Therapy,13612,2025-05-08
+1079,987,80,Heart Disease,Medication,10333,2025-09-10
+1080,794,86,Heart Disease,Therapy,7860,2025-08-13
+1081,383,115,Allergy,Consultation,3858,2025-08-09
+1082,37,36,Heart Disease,Therapy,6189,2025-01-04
+1083,577,8,Allergy,Medication,1472,2025-01-04
+1084,567,36,Heart Disease,Consultation,11553,2025-04-01
+1085,583,115,Migraine,Surgery,10854,2025-09-30
+1086,488,44,Fracture,Consultation,5816,2025-09-06
+1087,773,14,Heart Disease,Therapy,5261,2025-10-15
+1088,287,107,Fracture,Medication,12520,2025-04-29
+1089,347,36,Fracture,Medication,14817,2025-05-12
+1090,919,78,Migraine,Surgery,3280,2025-10-25
+1091,46,63,COVID-19,Therapy,11010,2025-02-02
+1092,91,118,Migraine,Medication,12395,2025-02-23
+1093,199,70,Heart Disease,Medication,4183,2024-12-27
+1094,863,31,Heart Disease,Medication,6403,2025-07-05
+1095,479,57,Allergy,Medication,13838,2025-10-09
+1096,155,21,Allergy,Medication,17483,2025-01-17
+1097,102,102,Fracture,Consultation,16462,2025-09-20
+1098,741,89,COVID-19,Surgery,11106,2025-10-17
+1099,328,138,Heart Disease,Consultation,8160,2025-11-08
+1100,770,107,COVID-19,Medication,6862,2025-08-04
+1101,478,81,COVID-19,Therapy,8731,2025-04-03
+1102,146,13,Fracture,Medication,15270,2025-04-05
+1103,422,8,Allergy,Therapy,19470,2024-12-20
+1104,353,36,COVID-19,Consultation,6603,2025-01-21
+1105,312,86,COVID-19,Surgery,224,2025-08-06
+1106,695,18,Migraine,Surgery,232,2024-12-22
+1107,968,112,Fracture,Medication,17594,2025-10-12
+1108,731,123,Diabetes,Consultation,9369,2025-07-16
+1109,596,99,COVID-19,Consultation,12546,2024-12-22
+1110,682,89,Allergy,Surgery,5276,2025-05-02
+1111,12,114,Allergy,Consultation,8449,2025-11-17
+1112,631,50,Migraine,Medication,5433,2025-11-12
+1113,40,58,Heart Disease,Medication,17896,2025-04-20
+1114,794,97,Fracture,Surgery,10061,2025-03-28
+1115,169,34,Heart Disease,Therapy,2175,2024-12-09
+1116,743,147,Diabetes,Consultation,15216,2025-10-16
+1117,141,57,Fracture,Consultation,14034,2025-12-03
+1118,614,124,Migraine,Surgery,719,2025-10-22
+1119,110,97,Allergy,Consultation,3117,2025-03-03
+1120,368,9,Migraine,Surgery,18692,2025-02-16
+1121,566,41,Fracture,Consultation,6008,2025-11-02
+1122,461,145,Diabetes,Medication,3068,2025-10-09
+1123,907,63,Allergy,Consultation,3034,2025-09-17
+1124,628,130,Fracture,Therapy,19917,2025-06-19
+1125,973,98,Migraine,Consultation,5450,2025-08-04
+1126,95,103,Fracture,Consultation,17688,2025-04-07
+1127,800,129,Fracture,Surgery,18143,2025-11-27
+1128,127,143,Allergy,Surgery,15875,2025-11-13
+1129,262,63,Migraine,Therapy,5521,2025-07-14
+1130,20,1,Migraine,Consultation,14860,2025-11-14
+1131,723,79,Allergy,Surgery,6071,2025-05-20
+1132,204,30,Heart Disease,Therapy,1048,2025-04-11
+1133,962,39,Heart Disease,Medication,5820,2025-01-07
+1134,323,138,Diabetes,Surgery,19052,2025-01-15
+1135,362,54,Heart Disease,Therapy,5056,2025-02-03
+1136,5,38,Migraine,Consultation,2386,2025-09-11
+1137,194,100,Allergy,Medication,17920,2025-04-26
+1138,214,16,Allergy,Surgery,18826,2025-10-12
+1139,64,137,Fracture,Surgery,9372,2025-03-24
+1140,742,29,Allergy,Medication,15414,2025-06-17
+1141,626,80,Fracture,Therapy,19318,2025-11-11
+1142,515,90,COVID-19,Consultation,13735,2025-03-18
+1143,9,52,Diabetes,Therapy,425,2025-08-27
+1144,104,99,COVID-19,Consultation,4556,2025-03-28
+1145,792,73,Heart Disease,Therapy,12594,2025-05-10
+1146,983,102,Allergy,Therapy,4435,2025-03-25
+1147,842,25,Diabetes,Medication,5956,2025-02-06
+1148,386,11,Allergy,Therapy,2662,2025-01-22
+1149,174,26,Diabetes,Medication,5403,2025-04-30
+1150,974,71,Fracture,Consultation,10533,2025-05-13
+1151,618,92,Heart Disease,Medication,1866,2025-04-16
+1152,225,137,Migraine,Consultation,10052,2025-09-03
+1153,620,115,COVID-19,Therapy,17172,2025-08-19
+1154,102,97,Migraine,Consultation,11920,2025-02-04
+1155,368,44,COVID-19,Consultation,4016,2025-04-24
+1156,723,77,Allergy,Consultation,10431,2024-12-05
+1157,338,23,Allergy,Consultation,2970,2025-06-12
+1158,494,82,Heart Disease,Medication,15125,2024-12-03
+1159,222,142,Diabetes,Therapy,5969,2024-12-08
+1160,44,100,COVID-19,Surgery,3003,2025-01-03
+1161,227,105,Fracture,Therapy,9037,2025-05-09
+1162,453,30,Fracture,Therapy,11230,2025-11-11
+1163,422,131,Fracture,Consultation,19639,2025-06-04
+1164,649,5,Diabetes,Consultation,2495,2025-04-26
+1165,120,114,Diabetes,Consultation,19708,2025-08-26
+1166,995,125,Diabetes,Surgery,8553,2025-10-16
+1167,703,77,Allergy,Medication,4450,2024-12-10
+1168,784,100,COVID-19,Surgery,11162,2024-12-17
+1169,507,16,Allergy,Therapy,17492,2025-02-03
+1170,995,31,COVID-19,Surgery,5650,2025-09-18
+1171,982,107,Fracture,Consultation,18482,2025-11-10
+1172,238,21,COVID-19,Consultation,720,2025-09-22
+1173,244,105,Migraine,Medication,2031,2025-12-03
+1174,684,16,Fracture,Consultation,6327,2025-05-08
+1175,488,123,Migraine,Consultation,1982,2024-12-03
+1176,226,123,Fracture,Medication,7674,2025-02-05
+1177,737,89,Allergy,Medication,12613,2025-08-16
+1178,201,50,Diabetes,Medication,1200,2025-10-10
+1179,875,125,Migraine,Consultation,8635,2024-12-07
+1180,779,34,Fracture,Consultation,18596,2025-06-10
+1181,28,136,Fracture,Therapy,465,2025-11-15
+1182,328,46,Allergy,Consultation,3703,2025-08-29
+1183,194,84,Migraine,Surgery,18062,2025-09-29
+1184,511,47,Allergy,Therapy,6138,2025-01-29
+1185,190,39,Diabetes,Medication,1524,2025-07-28
+1186,450,59,Allergy,Surgery,19728,2025-11-28
+1187,296,144,Diabetes,Consultation,18085,2025-02-03
+1188,177,95,Heart Disease,Consultation,13839,2025-06-14
+1189,729,117,Migraine,Medication,16502,2025-04-09
+1190,869,15,COVID-19,Medication,15074,2025-09-11
+1191,106,82,Heart Disease,Consultation,5334,2025-08-13
+1192,243,67,COVID-19,Medication,7449,2025-01-26
+1193,292,29,Fracture,Consultation,1933,2024-12-31
+1194,182,147,Heart Disease,Medication,9966,2025-08-30
+1195,136,64,Migraine,Consultation,7382,2025-04-12
+1196,247,140,Diabetes,Medication,11179,2025-11-07
+1197,360,100,COVID-19,Therapy,12653,2025-03-19
+1198,677,146,Allergy,Consultation,6350,2025-11-07
+1199,476,54,Heart Disease,Consultation,12798,2025-02-28
+1200,29,63,Allergy,Therapy,7648,2025-06-06
+1201,48,143,Allergy,Surgery,17505,2025-04-15
+1202,435,52,Allergy,Medication,19292,2025-04-12
+1203,72,128,Heart Disease,Therapy,13613,2025-06-23
+1204,562,73,Diabetes,Therapy,5445,2024-12-25
+1205,819,39,Heart Disease,Medication,9734,2025-02-09
+1206,568,62,Diabetes,Surgery,4789,2025-09-15
+1207,568,114,Heart Disease,Consultation,13283,2025-10-19
+1208,503,67,Allergy,Therapy,1844,2025-03-01
+1209,307,119,COVID-19,Surgery,16848,2025-08-22
+1210,508,48,Fracture,Surgery,13935,2024-12-07
+1211,481,126,Migraine,Surgery,18147,2025-03-24
+1212,451,130,Allergy,Medication,11272,2024-12-12
+1213,285,101,Migraine,Therapy,11321,2025-11-01
+1214,620,109,Heart Disease,Consultation,17905,2025-09-12
+1215,279,90,Heart Disease,Surgery,13950,2025-02-21
+1216,108,20,Allergy,Surgery,4777,2025-03-20
+1217,596,137,Diabetes,Consultation,10499,2025-01-28
+1218,161,137,Heart Disease,Consultation,10741,2025-06-04
+1219,937,135,Migraine,Therapy,15260,2025-09-22
+1220,253,13,Allergy,Therapy,5911,2025-08-27
+1221,618,47,Migraine,Surgery,11779,2025-09-20
+1222,392,140,COVID-19,Surgery,7418,2025-05-08
+1223,12,37,Diabetes,Medication,11337,2025-04-16
+1224,938,128,Heart Disease,Medication,2216,2024-12-10
+1225,183,44,Fracture,Medication,18497,2025-06-23
+1226,496,43,Fracture,Surgery,10678,2025-04-24
+1227,754,66,Fracture,Medication,16008,2024-12-05
+1228,202,85,Fracture,Surgery,1251,2025-04-15
+1229,668,79,Heart Disease,Surgery,6798,2024-12-21
+1230,829,143,Fracture,Medication,524,2025-03-24
+1231,446,101,Diabetes,Medication,7333,2025-07-21
+1232,277,46,Allergy,Therapy,12945,2025-05-10
+1233,111,62,Allergy,Consultation,4719,2025-04-18
+1234,199,113,Allergy,Surgery,5313,2025-11-02
+1235,398,51,Heart Disease,Surgery,3445,2025-10-29
+1236,295,107,COVID-19,Surgery,3802,2025-09-05
+1237,461,107,Allergy,Consultation,7863,2025-10-13
+1238,191,131,Heart Disease,Surgery,7501,2025-08-16
+1239,908,30,Diabetes,Therapy,16054,2025-07-13
+1240,325,69,COVID-19,Therapy,19350,2025-11-27
+1241,35,83,Heart Disease,Therapy,6467,2025-03-29
+1242,412,79,Fracture,Medication,17028,2025-06-25
+1243,35,63,Migraine,Surgery,18527,2025-10-03
+1244,844,71,Diabetes,Therapy,19612,2025-01-12
+1245,118,149,Allergy,Medication,13320,2025-04-22
+1246,335,42,Allergy,Therapy,17428,2025-10-18
+1247,12,87,Fracture,Therapy,18084,2025-07-28
+1248,312,121,Fracture,Surgery,13821,2024-12-15
+1249,538,87,Migraine,Consultation,15620,2025-06-29
+1250,994,63,COVID-19,Medication,9552,2025-06-17
+1251,416,69,Diabetes,Surgery,9067,2025-03-01
+1252,494,126,Migraine,Medication,11999,2024-12-23
+1253,484,73,Diabetes,Consultation,5112,2025-10-26
+1254,190,142,Fracture,Surgery,754,2025-07-27
+1255,176,120,Migraine,Surgery,2904,2025-03-31
+1256,78,32,Heart Disease,Surgery,18876,2025-02-07
+1257,68,133,Heart Disease,Medication,13603,2025-08-25
+1258,292,12,Diabetes,Therapy,19466,2025-04-18
+1259,805,65,Fracture,Surgery,18141,2025-10-12
+1260,177,137,Heart Disease,Consultation,16394,2024-12-04
+1261,671,10,Fracture,Consultation,13687,2025-08-19
+1262,751,71,Migraine,Surgery,7322,2025-07-21
+1263,282,89,Migraine,Consultation,2888,2025-04-13
+1264,22,90,Heart Disease,Consultation,15007,2025-05-22
+1265,321,125,Migraine,Therapy,1062,2025-09-15
+1266,2,20,COVID-19,Surgery,19565,2025-01-13
+1267,924,149,COVID-19,Medication,7898,2025-02-04
+1268,736,84,Heart Disease,Surgery,4176,2025-11-10
+1269,162,102,Migraine,Consultation,2741,2025-10-23
+1270,894,108,Fracture,Medication,18286,2025-02-08
+1271,728,22,COVID-19,Consultation,19296,2025-03-23
+1272,862,20,Diabetes,Consultation,19880,2024-12-31
+1273,167,61,Allergy,Medication,17717,2025-07-05
+1274,20,136,Fracture,Medication,3649,2025-09-03
+1275,405,12,Fracture,Medication,7546,2024-12-24
+1276,214,21,Fracture,Consultation,15685,2025-09-10
+1277,969,112,Allergy,Therapy,15401,2025-10-16
+1278,313,86,Diabetes,Surgery,19261,2025-04-05
+1279,992,54,COVID-19,Consultation,8062,2025-10-10
+1280,526,90,Diabetes,Consultation,15571,2025-09-10
+1281,689,137,Diabetes,Surgery,8784,2025-04-10
+1282,302,2,Migraine,Surgery,10625,2025-03-31
+1283,922,25,COVID-19,Consultation,6081,2025-01-24
+1284,9,90,Heart Disease,Consultation,6058,2025-02-09
+1285,388,12,Allergy,Medication,6386,2025-06-28
+1286,885,113,COVID-19,Surgery,18929,2025-11-17
+1287,321,13,Allergy,Medication,10942,2025-09-26
+1288,770,98,COVID-19,Consultation,11126,2024-12-08
+1289,199,91,Heart Disease,Surgery,11819,2025-10-17
+1290,227,2,Fracture,Surgery,6547,2025-11-23
+1291,47,51,Heart Disease,Medication,8047,2025-09-10
+1292,142,86,Allergy,Therapy,246,2025-03-09
+1293,416,46,COVID-19,Surgery,12138,2025-08-15
+1294,407,8,Diabetes,Therapy,13518,2025-01-27
+1295,862,101,Allergy,Surgery,2707,2025-11-03
+1296,789,41,COVID-19,Medication,7594,2025-06-26
+1297,133,13,Migraine,Therapy,15247,2025-05-13
+1298,309,75,Diabetes,Medication,2886,2025-04-23
+1299,682,111,Allergy,Therapy,5236,2025-09-07
+1300,435,10,Fracture,Medication,7943,2025-01-25
+1301,510,106,COVID-19,Consultation,10009,2025-07-06
+1302,530,65,Migraine,Medication,18376,2025-03-04
+1303,833,148,Fracture,Consultation,8862,2025-11-27
+1304,363,150,Allergy,Therapy,19282,2025-03-14
+1305,448,93,Heart Disease,Medication,14882,2025-08-20
+1306,917,99,Fracture,Consultation,14823,2024-12-29
+1307,233,46,COVID-19,Consultation,11478,2025-03-16
+1308,784,72,COVID-19,Medication,15519,2025-08-31
+1309,766,60,COVID-19,Surgery,10993,2025-07-17
+1310,327,88,Migraine,Surgery,15718,2025-10-29
+1311,119,27,Migraine,Surgery,6689,2025-02-22
+1312,691,129,COVID-19,Therapy,3234,2025-10-19
+1313,589,112,Diabetes,Medication,5755,2025-01-29
+1314,624,132,Allergy,Therapy,5709,2025-03-29
+1315,323,110,COVID-19,Medication,13572,2025-02-24
+1316,227,36,COVID-19,Surgery,3109,2025-08-13
+1317,441,123,Fracture,Medication,15408,2025-08-31
+1318,72,112,Diabetes,Surgery,13174,2025-01-13
+1319,913,34,Diabetes,Medication,5507,2025-08-04
+1320,674,43,Migraine,Therapy,5107,2025-02-15
+1321,489,43,Diabetes,Consultation,14185,2025-11-17
+1322,469,5,Fracture,Consultation,13152,2025-08-09
+1323,909,17,Fracture,Surgery,15668,2025-03-11
+1324,787,37,COVID-19,Therapy,5712,2025-10-22
+1325,65,89,Migraine,Surgery,19922,2025-07-22
+1326,350,37,Fracture,Surgery,8050,2025-01-31
+1327,456,18,Migraine,Surgery,18976,2025-07-01
+1328,17,131,Diabetes,Consultation,8259,2025-05-16
+1329,590,62,COVID-19,Therapy,909,2025-07-17
+1330,395,115,Fracture,Consultation,16511,2025-07-03
+1331,130,51,Allergy,Consultation,11197,2025-05-07
+1332,392,32,COVID-19,Consultation,10926,2025-08-02
+1333,819,105,COVID-19,Medication,9137,2025-01-29
+1334,618,94,Diabetes,Surgery,553,2025-01-06
+1335,35,51,Allergy,Surgery,10818,2025-05-10
+1336,256,16,Allergy,Surgery,3659,2025-09-02
+1337,339,79,Fracture,Surgery,7133,2025-08-16
+1338,658,43,Migraine,Medication,16283,2025-04-27
+1339,817,82,Fracture,Therapy,13581,2024-12-21
+1340,582,65,Heart Disease,Medication,1739,2025-06-22
+1341,933,144,COVID-19,Surgery,2305,2025-03-16
+1342,363,57,COVID-19,Therapy,10072,2025-06-19
+1343,283,108,Allergy,Therapy,6915,2025-02-28
+1344,918,45,Diabetes,Surgery,6014,2025-07-16
+1345,852,87,Heart Disease,Medication,3587,2025-05-16
+1346,225,44,Heart Disease,Medication,252,2025-10-11
+1347,307,62,Fracture,Therapy,9249,2025-02-26
+1348,773,30,Allergy,Medication,3350,2025-10-19
+1349,523,32,Allergy,Therapy,19807,2025-10-26
+1350,291,84,Migraine,Consultation,11918,2025-06-11
+1351,22,58,Diabetes,Medication,16363,2025-08-30
+1352,149,99,Allergy,Medication,17720,2025-09-06
+1353,920,109,Heart Disease,Therapy,15134,2025-10-10
+1354,663,91,Heart Disease,Medication,4296,2025-03-29
+1355,750,93,Fracture,Consultation,6041,2025-11-19
+1356,806,114,COVID-19,Consultation,10563,2025-04-15
+1357,47,53,Allergy,Consultation,17723,2025-01-02
+1358,117,44,COVID-19,Surgery,3887,2024-12-15
+1359,847,57,Diabetes,Therapy,15428,2025-03-11
+1360,680,25,Migraine,Therapy,4835,2025-07-17
+1361,656,41,Diabetes,Therapy,18347,2025-11-16
+1362,710,121,COVID-19,Therapy,16526,2025-11-12
+1363,517,109,COVID-19,Medication,2433,2025-02-09
+1364,496,95,COVID-19,Consultation,13377,2025-08-25
+1365,376,9,Diabetes,Consultation,17432,2025-05-20
+1366,205,62,Heart Disease,Consultation,14023,2025-07-24
+1367,604,1,Diabetes,Surgery,11239,2025-02-12
+1368,612,105,Diabetes,Medication,619,2025-08-07
+1369,895,149,COVID-19,Therapy,2378,2025-08-07
+1370,237,19,Diabetes,Consultation,16527,2025-03-09
+1371,650,79,Allergy,Medication,2453,2025-02-07
+1372,621,117,Fracture,Medication,11248,2025-06-10
+1373,231,72,Heart Disease,Medication,8149,2025-05-21
+1374,320,101,COVID-19,Consultation,9451,2025-06-13
+1375,239,112,Fracture,Medication,5596,2025-01-20
+1376,666,33,Diabetes,Surgery,19345,2025-02-24
+1377,845,130,Migraine,Therapy,5128,2025-01-28
+1378,630,116,Fracture,Surgery,13801,2025-02-05
+1379,897,65,Fracture,Therapy,18596,2025-07-10
+1380,614,63,Heart Disease,Surgery,1401,2025-06-09
+1381,645,31,Allergy,Therapy,14114,2025-10-07
+1382,997,123,Heart Disease,Consultation,13011,2025-07-06
+1383,290,56,Heart Disease,Therapy,11389,2024-12-31
+1384,487,120,Allergy,Medication,4205,2024-12-06
+1385,211,74,Allergy,Therapy,10273,2025-07-25
+1386,187,21,Allergy,Medication,801,2025-02-04
+1387,157,70,Heart Disease,Therapy,18574,2025-06-20
+1388,566,46,Diabetes,Consultation,18336,2025-01-13
+1389,379,136,Heart Disease,Medication,14263,2025-11-21
+1390,300,61,Fracture,Therapy,14007,2025-02-03
+1391,766,33,Migraine,Medication,10924,2025-07-13
+1392,213,41,COVID-19,Therapy,15714,2025-05-03
+1393,165,132,Allergy,Therapy,11039,2025-11-21
+1394,129,16,Fracture,Consultation,8946,2025-08-25
+1395,420,23,Migraine,Medication,6551,2025-10-26
+1396,653,71,Migraine,Consultation,11597,2025-09-25
+1397,142,32,Migraine,Medication,250,2025-01-27
+1398,507,62,Heart Disease,Surgery,4812,2025-01-26
+1399,996,97,Migraine,Consultation,6882,2025-01-27
+1400,671,147,Allergy,Consultation,10099,2025-03-12
+1401,292,10,Migraine,Therapy,11680,2025-03-06
+1402,154,134,Allergy,Surgery,17993,2024-12-14
+1403,599,135,Heart Disease,Therapy,2796,2025-07-04
+1404,665,128,Allergy,Therapy,2976,2025-11-04
+1405,115,62,Fracture,Consultation,4078,2025-06-12
+1406,966,95,Heart Disease,Consultation,17494,2025-10-17
+1407,884,36,Diabetes,Medication,11471,2025-07-30
+1408,49,101,Fracture,Therapy,19909,2024-12-21
+1409,710,95,Migraine,Consultation,5341,2025-11-01
+1410,840,25,Fracture,Consultation,14092,2025-06-14
+1411,96,32,COVID-19,Consultation,6493,2025-02-11
+1412,903,20,Migraine,Surgery,2546,2025-03-30
+1413,797,1,COVID-19,Consultation,11316,2025-09-09
+1414,527,5,Migraine,Consultation,19496,2025-11-05
+1415,85,71,Migraine,Surgery,4276,2025-08-06
+1416,292,79,COVID-19,Medication,10970,2025-10-01
+1417,151,132,Fracture,Medication,2638,2024-12-26
+1418,162,140,Diabetes,Surgery,9347,2025-03-15
+1419,335,39,Heart Disease,Surgery,15556,2025-01-28
+1420,72,90,Diabetes,Surgery,1621,2025-10-29
+1421,948,38,Diabetes,Consultation,4801,2025-03-05
+1422,454,87,COVID-19,Consultation,3817,2025-11-19
+1423,881,98,Migraine,Consultation,13028,2025-12-01
+1424,74,61,Migraine,Therapy,15086,2025-10-11
+1425,598,37,Allergy,Medication,8332,2025-03-29
+1426,394,98,Heart Disease,Consultation,19927,2025-06-27
+1427,890,99,Allergy,Therapy,1341,2025-04-06
+1428,271,36,COVID-19,Consultation,17889,2025-05-25
+1429,503,85,Diabetes,Consultation,3702,2025-11-25
+1430,872,121,Heart Disease,Therapy,13914,2025-03-21
+1431,149,3,Diabetes,Surgery,17224,2025-11-17
+1432,858,27,Heart Disease,Therapy,16584,2025-07-26
+1433,425,80,Diabetes,Surgery,9225,2025-07-03
+1434,485,47,Fracture,Medication,9316,2025-09-21
+1435,826,9,Fracture,Surgery,15487,2025-05-04
+1436,147,2,Diabetes,Consultation,17367,2024-12-11
+1437,168,142,Heart Disease,Therapy,14651,2025-11-23
+1438,361,68,Migraine,Surgery,4519,2025-08-09
+1439,21,33,Heart Disease,Consultation,6109,2025-10-19
+1440,951,6,Allergy,Consultation,7864,2025-02-01
+1441,899,64,Diabetes,Medication,2237,2025-05-28
+1442,733,52,COVID-19,Surgery,15857,2025-02-16
+1443,644,114,Fracture,Medication,9403,2025-05-30
+1444,717,49,Diabetes,Medication,7219,2025-09-17
+1445,598,70,Migraine,Medication,4584,2025-04-01
+1446,896,132,COVID-19,Surgery,4964,2025-03-12
+1447,380,19,COVID-19,Surgery,14888,2025-01-22
+1448,346,129,Diabetes,Consultation,7993,2025-08-31
+1449,239,53,COVID-19,Therapy,7381,2025-04-11
+1450,657,114,COVID-19,Medication,13380,2025-07-27
+1451,433,71,COVID-19,Consultation,1825,2025-01-13
+1452,492,42,Heart Disease,Surgery,10495,2025-04-09
+1453,27,53,Fracture,Medication,11604,2025-10-03
+1454,639,147,Migraine,Medication,8871,2025-03-24
+1455,752,138,Migraine,Medication,13178,2024-12-06
+1456,101,89,Diabetes,Surgery,12376,2025-10-28
+1457,98,2,COVID-19,Consultation,16651,2025-03-15
+1458,199,44,Diabetes,Consultation,16822,2024-12-29
+1459,943,43,COVID-19,Consultation,2048,2025-01-12
+1460,291,13,Allergy,Medication,11972,2025-10-21
+1461,622,147,Migraine,Consultation,1426,2025-09-25
+1462,784,32,Allergy,Therapy,19431,2025-04-21
+1463,395,45,Diabetes,Therapy,574,2025-09-12
+1464,960,114,Allergy,Consultation,16720,2025-02-22
+1465,791,9,Diabetes,Consultation,5790,2025-02-18
+1466,791,89,Migraine,Therapy,2274,2025-06-18
+1467,939,21,Fracture,Medication,17581,2025-05-22
+1468,739,52,Migraine,Medication,5955,2025-01-23
+1469,181,41,Fracture,Surgery,11194,2025-07-27
+1470,15,61,Fracture,Surgery,19384,2025-03-08
+1471,59,9,Heart Disease,Consultation,3919,2024-12-06
+1472,341,75,Diabetes,Therapy,13395,2025-11-22
+1473,936,32,Fracture,Therapy,6607,2025-04-29
+1474,540,25,COVID-19,Medication,11768,2025-06-10
+1475,900,149,Heart Disease,Therapy,6071,2025-08-13
+1476,261,99,Heart Disease,Consultation,8239,2025-04-18
+1477,235,10,Heart Disease,Therapy,1894,2025-01-27
+1478,549,66,Diabetes,Surgery,17240,2025-01-31
+1479,382,60,Diabetes,Therapy,3263,2024-12-04
+1480,698,125,Allergy,Consultation,5038,2025-08-06
+1481,493,8,Diabetes,Medication,7868,2025-05-22
+1482,154,1,COVID-19,Medication,15676,2025-05-24
+1483,433,7,Diabetes,Medication,12834,2024-12-30
+1484,998,136,Fracture,Therapy,13919,2025-09-08
+1485,801,38,Migraine,Medication,9081,2025-07-05
+1486,980,91,Diabetes,Therapy,9454,2025-11-19
+1487,95,31,Heart Disease,Consultation,19680,2025-03-30
+1488,697,1,Diabetes,Consultation,1852,2025-04-21
+1489,73,7,Heart Disease,Consultation,17607,2025-12-02
+1490,720,60,Fracture,Consultation,9019,2025-05-09
+1491,136,113,Diabetes,Therapy,2360,2025-05-05
+1492,848,107,Heart Disease,Consultation,15710,2025-02-21
+1493,733,2,Heart Disease,Therapy,12305,2025-04-29
+1494,498,36,Migraine,Surgery,11710,2025-01-29
+1495,662,83,Heart Disease,Surgery,8230,2025-07-07
+1496,843,8,Migraine,Surgery,10928,2025-11-11
+1497,412,71,COVID-19,Surgery,14036,2024-12-27
+1498,776,130,Fracture,Medication,19057,2025-05-03
+1499,320,20,COVID-19,Medication,19277,2025-09-16
+1500,807,54,Allergy,Surgery,3360,2025-03-29
+1501,676,40,Migraine,Medication,7480,2025-03-02
+1502,921,97,Heart Disease,Consultation,7289,2025-03-30
+1503,420,19,COVID-19,Consultation,9682,2025-10-17
+1504,483,35,Heart Disease,Medication,3545,2025-05-09
+1505,515,50,Heart Disease,Surgery,1610,2025-06-29
+1506,864,64,Fracture,Therapy,6889,2024-12-08
+1507,93,36,Allergy,Consultation,13688,2025-05-14
+1508,419,50,Fracture,Consultation,7371,2025-04-16
+1509,664,91,Fracture,Therapy,17148,2025-03-12
+1510,108,85,Allergy,Medication,11453,2025-11-14
+1511,675,147,Heart Disease,Surgery,9933,2024-12-03
+1512,872,141,COVID-19,Medication,14288,2025-07-15
+1513,544,112,Migraine,Medication,16341,2025-04-11
+1514,573,84,COVID-19,Medication,12727,2025-01-25
+1515,288,149,COVID-19,Medication,14329,2025-08-23
+1516,628,122,Migraine,Medication,13298,2025-09-10
+1517,22,128,COVID-19,Medication,13838,2025-06-13
+1518,275,142,Diabetes,Medication,17650,2025-06-01
+1519,575,28,COVID-19,Therapy,2069,2025-06-16
+1520,65,101,Migraine,Therapy,10866,2025-09-20
+1521,886,136,Fracture,Consultation,18204,2025-04-20
+1522,194,92,Heart Disease,Therapy,15131,2025-07-10
+1523,902,150,Heart Disease,Therapy,17553,2024-12-07
+1524,19,84,COVID-19,Surgery,674,2025-04-18
+1525,541,91,Allergy,Consultation,16192,2025-06-26
+1526,377,107,Diabetes,Consultation,13055,2025-03-24
+1527,558,80,Allergy,Surgery,5953,2025-07-02
+1528,779,62,Fracture,Therapy,3685,2025-01-11
+1529,450,23,Heart Disease,Surgery,18266,2025-01-08
+1530,196,139,Allergy,Surgery,19982,2025-10-01
+1531,674,96,Fracture,Surgery,1529,2025-06-11
+1532,125,21,Diabetes,Medication,4226,2025-08-29
+1533,950,24,COVID-19,Medication,17907,2025-10-08
+1534,786,121,Migraine,Therapy,19241,2024-12-17
+1535,748,56,Allergy,Surgery,610,2025-10-17
+1536,19,64,Diabetes,Surgery,1879,2025-09-07
+1537,419,125,Fracture,Medication,11291,2025-10-05
+1538,702,142,Fracture,Consultation,7706,2025-04-26
+1539,146,22,Fracture,Therapy,2450,2025-11-14
+1540,575,37,Migraine,Surgery,5806,2025-06-19
+1541,990,3,Allergy,Consultation,13069,2024-12-08
+1542,654,20,Fracture,Surgery,3509,2025-05-16
+1543,901,68,COVID-19,Medication,12694,2025-02-16
+1544,680,100,Diabetes,Medication,17035,2025-04-14
+1545,813,149,Allergy,Therapy,1738,2025-08-25
+1546,671,143,Fracture,Therapy,2372,2025-09-07
+1547,366,24,Migraine,Medication,464,2025-08-06
+1548,917,75,COVID-19,Medication,17685,2025-11-06
+1549,716,110,Allergy,Consultation,7421,2025-11-21
+1550,446,23,Migraine,Medication,7102,2025-03-15
+1551,65,100,Migraine,Consultation,4918,2025-05-24
+1552,578,50,Heart Disease,Surgery,16589,2025-01-26
+1553,530,96,Diabetes,Therapy,9375,2025-01-30
+1554,970,113,Heart Disease,Surgery,11883,2025-01-12
+1555,12,84,Heart Disease,Medication,10925,2025-12-03
+1556,408,110,Diabetes,Surgery,19906,2025-08-21
+1557,710,35,Heart Disease,Surgery,10833,2025-08-03
+1558,659,15,Allergy,Medication,10529,2025-10-03
+1559,373,143,Diabetes,Medication,19672,2025-01-30
+1560,649,96,COVID-19,Consultation,19717,2025-01-14
+1561,62,62,Fracture,Therapy,13407,2025-03-03
+1562,946,142,COVID-19,Surgery,14994,2025-06-13
+1563,210,22,Fracture,Medication,16383,2025-09-05
+1564,45,19,Heart Disease,Surgery,1406,2025-08-22
+1565,675,119,Migraine,Consultation,9976,2025-07-10
+1566,69,46,Heart Disease,Medication,16690,2025-03-08
+1567,440,95,Fracture,Consultation,8435,2025-03-11
+1568,429,30,Heart Disease,Therapy,3931,2025-03-15
+1569,101,36,Migraine,Therapy,10723,2025-07-04
+1570,241,97,COVID-19,Surgery,816,2025-06-30
+1571,536,128,Diabetes,Therapy,19793,2025-01-21
+1572,892,98,COVID-19,Surgery,13085,2024-12-18
+1573,736,11,Migraine,Consultation,10878,2025-05-03
+1574,586,79,Allergy,Therapy,2673,2025-04-10
+1575,588,108,Migraine,Medication,5088,2024-12-15
+1576,757,119,Fracture,Medication,11126,2025-10-22
+1577,184,44,Diabetes,Medication,5343,2025-08-16
+1578,752,113,Diabetes,Medication,12955,2025-02-17
+1579,927,34,Allergy,Consultation,13574,2025-11-14
+1580,113,143,Diabetes,Consultation,6886,2025-06-29
+1581,367,5,Diabetes,Medication,6187,2025-08-04
+1582,189,84,Diabetes,Consultation,3709,2025-11-23
+1583,385,25,Allergy,Medication,15326,2025-10-21
+1584,110,43,Diabetes,Medication,17571,2025-02-22
+1585,2,94,Allergy,Consultation,6210,2025-01-30
+1586,739,136,Migraine,Surgery,2778,2025-02-13
+1587,975,97,Allergy,Consultation,10356,2024-12-13
+1588,140,64,COVID-19,Therapy,2380,2025-11-02
+1589,105,73,Allergy,Medication,15644,2025-01-26
+1590,633,46,Migraine,Consultation,11116,2025-11-12
+1591,514,42,COVID-19,Therapy,16198,2025-05-21
+1592,868,120,Migraine,Medication,17678,2025-01-08
+1593,84,129,Heart Disease,Consultation,9853,2025-04-12
+1594,231,76,Diabetes,Therapy,18222,2025-11-13
+1595,508,49,Allergy,Therapy,3214,2025-11-17
+1596,317,62,Allergy,Consultation,5067,2025-02-08
+1597,16,59,Migraine,Consultation,14868,2025-05-01
+1598,407,11,Fracture,Consultation,18434,2025-10-23
+1599,842,139,Diabetes,Consultation,2917,2025-10-28
+1600,226,77,Diabetes,Therapy,1283,2025-02-09
+1601,82,148,Allergy,Consultation,1388,2025-09-11
+1602,346,140,Allergy,Medication,9637,2025-07-19
+1603,363,19,Heart Disease,Surgery,15003,2025-05-03
+1604,583,14,Heart Disease,Medication,4367,2025-08-25
+1605,161,145,Fracture,Surgery,4009,2025-01-24
+1606,256,92,Allergy,Consultation,15788,2024-12-04
+1607,838,115,Fracture,Medication,13278,2025-10-08
+1608,570,35,Diabetes,Surgery,6548,2025-03-21
+1609,678,101,Migraine,Surgery,7821,2025-11-23
+1610,469,93,COVID-19,Therapy,12239,2025-04-25
+1611,589,115,Heart Disease,Consultation,9821,2025-06-28
+1612,109,40,Heart Disease,Surgery,15057,2025-12-01
+1613,237,1,Migraine,Surgery,19154,2025-07-31
+1614,929,70,Allergy,Surgery,4074,2025-01-16
+1615,722,25,Allergy,Medication,2850,2024-12-14
+1616,994,20,Fracture,Medication,14851,2025-05-17
+1617,45,133,Diabetes,Surgery,8883,2025-06-23
+1618,962,77,Diabetes,Medication,1125,2025-03-30
+1619,208,146,COVID-19,Surgery,14134,2025-11-08
+1620,501,71,Fracture,Medication,2785,2025-02-24
+1621,832,149,Allergy,Therapy,4672,2025-03-01
+1622,857,11,Allergy,Medication,6974,2025-05-31
+1623,727,118,Heart Disease,Medication,19562,2025-07-24
+1624,567,105,Allergy,Therapy,15298,2025-11-09
+1625,448,82,Allergy,Therapy,7832,2025-08-11
+1626,473,73,Diabetes,Surgery,18523,2025-08-22
+1627,92,109,Migraine,Therapy,17466,2025-09-14
+1628,716,80,Diabetes,Surgery,4353,2025-01-10
+1629,325,120,Diabetes,Surgery,4197,2025-03-19
+1630,881,28,Migraine,Medication,4150,2025-04-26
+1631,502,132,COVID-19,Consultation,5972,2025-05-11
+1632,380,26,COVID-19,Therapy,15279,2025-07-03
+1633,170,52,Migraine,Medication,15235,2025-03-19
+1634,543,121,Heart Disease,Surgery,4219,2024-12-13
+1635,190,34,Migraine,Consultation,1291,2025-02-28
+1636,135,113,Migraine,Consultation,9064,2025-03-04
+1637,518,76,Diabetes,Therapy,9144,2025-04-30
+1638,436,31,Heart Disease,Therapy,12332,2025-02-12
+1639,503,76,Fracture,Surgery,9873,2025-03-09
+1640,145,10,Allergy,Therapy,18127,2025-04-19
+1641,41,124,Allergy,Medication,4401,2025-07-08
+1642,128,89,Allergy,Surgery,9311,2025-02-22
+1643,117,148,Heart Disease,Medication,16109,2025-01-29
+1644,211,145,Diabetes,Medication,18689,2025-02-28
+1645,139,96,Heart Disease,Surgery,2339,2025-10-21
+1646,158,64,Migraine,Surgery,3776,2025-03-14
+1647,67,42,COVID-19,Surgery,4739,2025-11-08
+1648,569,94,Diabetes,Therapy,13533,2025-02-15
+1649,354,88,Allergy,Therapy,14155,2025-03-15
+1650,20,83,Migraine,Medication,2372,2025-09-21
+1651,35,127,COVID-19,Consultation,9123,2025-10-17
+1652,435,64,Fracture,Consultation,14971,2025-02-21
+1653,694,52,Allergy,Medication,442,2025-09-10
+1654,102,38,Heart Disease,Surgery,1201,2025-05-30
+1655,151,140,Allergy,Consultation,16171,2025-02-16
+1656,255,130,Migraine,Surgery,16475,2025-01-25
+1657,179,112,Fracture,Consultation,11271,2025-01-11
+1658,587,148,Diabetes,Consultation,14976,2025-07-14
+1659,598,134,COVID-19,Therapy,16546,2025-10-08
+1660,965,133,Heart Disease,Medication,2945,2025-11-02
+1661,80,51,Allergy,Therapy,14018,2025-09-15
+1662,600,131,Heart Disease,Consultation,2078,2025-05-13
+1663,50,149,Heart Disease,Surgery,12167,2025-08-27
+1664,953,116,Fracture,Therapy,808,2025-06-04
+1665,864,76,Diabetes,Therapy,360,2025-07-21
+1666,797,133,COVID-19,Surgery,2722,2025-10-25
+1667,187,145,Fracture,Surgery,6873,2025-06-18
+1668,420,96,COVID-19,Consultation,15146,2025-03-16
+1669,190,121,Diabetes,Consultation,8645,2025-02-14
+1670,68,130,Fracture,Medication,9832,2025-07-28
+1671,417,16,Diabetes,Surgery,17006,2025-03-16
+1672,180,99,COVID-19,Consultation,8579,2025-01-09
+1673,963,142,Migraine,Consultation,11400,2025-02-09
+1674,300,73,Migraine,Medication,19112,2025-07-19
+1675,817,89,Heart Disease,Medication,2530,2025-06-14
+1676,333,136,Diabetes,Medication,13480,2025-11-05
+1677,151,60,Fracture,Medication,12515,2025-11-12
+1678,656,23,COVID-19,Consultation,10164,2025-06-13
+1679,584,63,Diabetes,Medication,16272,2025-06-15
+1680,147,76,Diabetes,Medication,10146,2025-07-25
+1681,332,42,Allergy,Medication,5220,2024-12-13
+1682,272,16,COVID-19,Surgery,2999,2025-06-25
+1683,680,59,Heart Disease,Medication,3901,2025-01-02
+1684,308,7,COVID-19,Medication,8405,2025-05-06
+1685,308,12,Heart Disease,Surgery,14988,2025-07-19
+1686,506,73,Fracture,Medication,3989,2025-11-12
+1687,272,109,Allergy,Therapy,10562,2025-07-12
+1688,153,38,Fracture,Therapy,4922,2025-03-01
+1689,706,75,Heart Disease,Therapy,6710,2025-10-09
+1690,396,100,Diabetes,Consultation,19920,2025-08-02
+1691,486,117,Migraine,Medication,9802,2025-07-07
+1692,691,24,COVID-19,Medication,15264,2025-07-29
+1693,600,67,Heart Disease,Medication,2956,2025-06-17
+1694,635,85,Fracture,Therapy,4327,2025-08-19
+1695,476,72,Diabetes,Consultation,2784,2025-08-25
+1696,300,101,Migraine,Medication,10087,2024-12-13
+1697,792,24,Diabetes,Medication,2891,2025-01-10
+1698,178,36,Migraine,Therapy,11972,2025-11-26
+1699,466,125,Heart Disease,Therapy,17998,2025-03-09
+1700,765,145,Migraine,Medication,15290,2025-01-08
+1701,66,11,Allergy,Therapy,8738,2025-08-29
+1702,574,35,Migraine,Surgery,6230,2025-02-14
+1703,342,81,Diabetes,Consultation,15963,2025-10-26
+1704,512,89,COVID-19,Medication,2709,2025-02-14
+1705,891,57,Heart Disease,Surgery,983,2025-02-05
+1706,635,1,COVID-19,Medication,5466,2025-01-22
+1707,943,104,Heart Disease,Medication,13964,2025-10-06
+1708,681,49,Fracture,Therapy,4439,2025-01-06
+1709,140,54,Allergy,Therapy,19345,2024-12-19
+1710,517,35,Fracture,Medication,10656,2025-08-08
+1711,250,113,Heart Disease,Therapy,11607,2025-07-25
+1712,675,74,Diabetes,Therapy,6863,2025-01-15
+1713,663,112,Allergy,Therapy,17070,2024-12-06
+1714,165,131,Heart Disease,Consultation,17065,2025-11-15
+1715,352,10,Diabetes,Consultation,5290,2025-04-30
+1716,741,129,Fracture,Surgery,4609,2025-08-09
+1717,266,106,Allergy,Surgery,15367,2025-02-10
+1718,268,72,Migraine,Surgery,7195,2025-07-01
+1719,633,59,Fracture,Surgery,5044,2025-02-21
+1720,89,19,Diabetes,Medication,17519,2025-11-18
+1721,759,38,Diabetes,Surgery,9135,2025-08-11
+1722,872,145,Allergy,Consultation,8387,2025-02-14
+1723,501,9,Diabetes,Medication,3353,2025-07-27
+1724,829,27,Allergy,Medication,11760,2025-09-17
+1725,656,67,COVID-19,Consultation,7096,2025-02-14
+1726,115,1,Heart Disease,Consultation,11800,2025-08-08
+1727,957,149,Fracture,Therapy,4301,2025-07-22
+1728,963,128,Migraine,Medication,11532,2025-07-17
+1729,71,59,Migraine,Consultation,16008,2025-12-03
+1730,249,46,Allergy,Therapy,11834,2025-03-31
+1731,934,35,Allergy,Therapy,8996,2025-04-14
+1732,574,31,COVID-19,Medication,12753,2025-04-19
+1733,45,21,Diabetes,Consultation,11627,2025-05-08
+1734,157,30,Allergy,Therapy,18604,2025-05-07
+1735,710,56,Migraine,Surgery,19166,2025-11-19
+1736,396,100,Diabetes,Therapy,9119,2025-07-29
+1737,260,120,Migraine,Surgery,4917,2025-03-03
+1738,937,76,Allergy,Surgery,2060,2025-04-20
+1739,932,121,Migraine,Medication,19135,2025-04-18
+1740,941,132,Allergy,Medication,9732,2025-09-06
+1741,834,51,Fracture,Therapy,19709,2025-10-05
+1742,932,53,COVID-19,Therapy,16268,2024-12-29
+1743,582,68,Heart Disease,Therapy,5378,2025-05-21
+1744,475,22,Heart Disease,Consultation,10645,2024-12-25
+1745,617,97,Diabetes,Therapy,19074,2025-02-03
+1746,291,142,Heart Disease,Medication,6435,2025-09-17
+1747,160,114,Diabetes,Surgery,6702,2025-09-21
+1748,954,45,Diabetes,Therapy,3063,2025-01-23
+1749,969,23,Fracture,Consultation,15426,2025-11-01
+1750,253,28,Diabetes,Surgery,15347,2025-09-17
+1751,445,128,Allergy,Medication,15518,2025-06-07
+1752,751,111,Heart Disease,Surgery,19778,2025-07-23
+1753,608,143,Diabetes,Medication,19410,2025-02-24
+1754,589,61,COVID-19,Therapy,1609,2025-01-26
+1755,17,93,Fracture,Surgery,10480,2025-03-28
+1756,489,77,Diabetes,Therapy,9534,2025-02-01
+1757,589,49,Allergy,Consultation,15404,2025-03-21
+1758,633,17,Fracture,Consultation,4397,2025-04-15
+1759,635,13,Heart Disease,Medication,17852,2025-07-13
+1760,796,150,Diabetes,Surgery,16903,2025-06-08
+1761,949,79,Migraine,Medication,4231,2025-02-17
+1762,147,60,Diabetes,Therapy,12624,2025-09-19
+1763,332,147,COVID-19,Therapy,2301,2025-02-16
+1764,464,78,COVID-19,Surgery,14466,2025-07-04
+1765,108,110,Fracture,Therapy,3695,2025-02-23
+1766,752,129,Diabetes,Medication,321,2025-09-02
+1767,968,119,Fracture,Consultation,12189,2025-03-01
+1768,707,6,Diabetes,Medication,11934,2025-03-17
+1769,592,45,Migraine,Medication,9111,2025-01-10
+1770,95,62,Allergy,Surgery,19708,2024-12-15
+1771,972,90,Allergy,Therapy,2684,2025-01-06
+1772,304,96,Heart Disease,Medication,677,2025-02-24
+1773,682,100,Allergy,Surgery,9604,2025-10-16
+1774,91,122,Migraine,Therapy,6791,2025-01-09
+1775,606,134,Migraine,Surgery,4185,2025-08-04
+1776,365,118,Allergy,Therapy,12626,2025-02-16
+1777,86,138,Heart Disease,Surgery,3859,2025-09-12
+1778,411,74,Allergy,Consultation,10076,2025-09-12
+1779,663,40,COVID-19,Surgery,810,2025-10-20
+1780,760,119,Heart Disease,Medication,1367,2025-07-01
+1781,59,96,Allergy,Therapy,227,2025-02-15
+1782,821,59,Heart Disease,Surgery,9922,2025-11-18
+1783,289,140,COVID-19,Medication,15317,2025-10-30
+1784,454,57,Heart Disease,Consultation,11488,2025-05-12
+1785,773,143,COVID-19,Consultation,18180,2024-12-23
+1786,839,57,COVID-19,Therapy,14141,2025-03-27
+1787,327,149,COVID-19,Therapy,2827,2025-03-12
+1788,924,23,COVID-19,Therapy,19366,2025-05-22
+1789,595,124,Fracture,Therapy,656,2025-11-26
+1790,428,138,COVID-19,Medication,2359,2025-03-24
+1791,542,6,Migraine,Surgery,12279,2025-07-24
+1792,910,109,Migraine,Consultation,4873,2025-03-18
+1793,32,142,Migraine,Therapy,10963,2025-03-22
+1794,4,70,Migraine,Surgery,15525,2025-01-26
+1795,226,80,Allergy,Medication,14254,2025-05-28
+1796,315,76,Heart Disease,Surgery,9753,2025-07-24
+1797,446,57,Heart Disease,Surgery,11639,2025-11-26
+1798,870,13,COVID-19,Consultation,13634,2025-09-06
+1799,69,128,COVID-19,Surgery,16151,2025-08-14
+1800,929,15,Migraine,Therapy,16456,2025-07-21
+1801,274,46,Diabetes,Medication,11563,2025-01-06
+1802,582,29,Migraine,Consultation,8194,2025-01-06
+1803,732,57,Migraine,Consultation,664,2025-08-30
+1804,59,27,Heart Disease,Consultation,12219,2025-07-09
+1805,542,48,Diabetes,Surgery,9811,2025-03-25
+1806,496,47,Fracture,Consultation,15446,2024-12-17
+1807,451,128,COVID-19,Consultation,4786,2025-02-28
+1808,7,46,Fracture,Medication,3612,2025-05-30
+1809,833,147,Diabetes,Consultation,8606,2025-02-23
+1810,166,129,Allergy,Therapy,15713,2025-09-18
+1811,183,9,Allergy,Therapy,15855,2025-11-03
+1812,416,8,Heart Disease,Surgery,5701,2025-02-14
+1813,708,37,Migraine,Surgery,13868,2025-01-28
+1814,918,78,Migraine,Therapy,17791,2025-02-08
+1815,262,54,Heart Disease,Consultation,13126,2024-12-30
+1816,488,85,Diabetes,Consultation,17130,2025-08-05
+1817,316,35,Allergy,Consultation,9442,2025-08-17
+1818,990,68,Migraine,Medication,15045,2025-06-09
+1819,550,104,Allergy,Consultation,3883,2025-05-18
+1820,803,32,Migraine,Therapy,9436,2025-10-21
+1821,838,121,COVID-19,Medication,9044,2025-02-05
+1822,481,124,Migraine,Therapy,13665,2024-12-23
+1823,355,116,Diabetes,Surgery,8055,2025-10-04
+1824,3,34,Allergy,Therapy,4229,2025-09-01
+1825,510,59,Diabetes,Therapy,14335,2025-02-09
+1826,888,102,COVID-19,Consultation,19301,2025-02-09
+1827,91,65,Diabetes,Medication,3822,2025-05-25
+1828,783,108,Diabetes,Surgery,19168,2025-09-24
+1829,219,15,Allergy,Medication,915,2024-12-09
+1830,439,12,Migraine,Consultation,7733,2025-11-24
+1831,724,95,COVID-19,Surgery,12068,2025-06-15
+1832,437,131,Fracture,Therapy,6742,2025-06-26
+1833,463,58,Diabetes,Surgery,3187,2025-04-26
+1834,731,39,Allergy,Medication,7771,2025-02-14
+1835,879,23,Migraine,Therapy,14941,2025-03-02
+1836,41,40,Fracture,Therapy,8466,2025-06-18
+1837,776,96,Allergy,Medication,11854,2025-11-10
+1838,944,85,Migraine,Consultation,18580,2025-11-02
+1839,606,118,Diabetes,Medication,16446,2025-03-20
+1840,417,30,COVID-19,Medication,14653,2025-01-27
+1841,408,12,Allergy,Surgery,705,2024-12-31
+1842,365,129,COVID-19,Surgery,5714,2025-02-21
+1843,624,108,Migraine,Therapy,11637,2025-03-10
+1844,153,13,Diabetes,Surgery,13587,2025-05-30
+1845,339,137,Fracture,Surgery,15472,2025-08-23
+1846,880,57,Heart Disease,Surgery,9596,2025-06-28
+1847,342,96,Migraine,Surgery,7699,2025-03-15
+1848,159,91,Fracture,Consultation,3639,2025-09-25
+1849,443,54,Fracture,Consultation,16733,2025-02-22
+1850,845,96,Migraine,Therapy,13367,2025-08-17
+1851,856,93,COVID-19,Medication,4978,2025-03-24
+1852,691,75,Diabetes,Medication,16527,2025-02-02
+1853,708,117,Allergy,Surgery,18425,2025-06-21
+1854,436,18,Heart Disease,Therapy,8018,2025-10-28
+1855,991,80,Migraine,Consultation,11738,2025-09-22
+1856,385,22,COVID-19,Surgery,19387,2025-06-05
+1857,981,21,Migraine,Consultation,12413,2025-10-26
+1858,25,53,Fracture,Surgery,12312,2025-01-01
+1859,275,128,Fracture,Surgery,15342,2025-02-16
+1860,61,16,COVID-19,Surgery,5489,2025-07-21
+1861,360,67,Allergy,Therapy,3848,2025-10-16
+1862,270,6,Diabetes,Consultation,4377,2025-01-31
+1863,802,140,Migraine,Therapy,7229,2025-02-03
+1864,595,82,Fracture,Therapy,16243,2025-08-05
+1865,401,37,Heart Disease,Medication,18553,2025-09-04
+1866,619,14,Allergy,Surgery,18575,2025-10-27
+1867,832,50,Migraine,Consultation,419,2025-08-12
+1868,525,54,Heart Disease,Surgery,426,2025-06-15
+1869,108,143,Heart Disease,Medication,11810,2025-10-07
+1870,272,25,COVID-19,Consultation,1804,2025-06-24
+1871,420,43,Heart Disease,Therapy,18968,2025-06-10
+1872,145,135,Allergy,Surgery,9549,2025-11-12
+1873,995,149,COVID-19,Consultation,2500,2025-07-02
+1874,393,111,Allergy,Surgery,7451,2025-10-07
+1875,474,93,Migraine,Surgery,17880,2025-06-15
+1876,427,86,Allergy,Therapy,17735,2024-12-23
+1877,152,128,Heart Disease,Surgery,18925,2025-03-15
+1878,654,28,Heart Disease,Surgery,19112,2025-04-18
+1879,319,95,Fracture,Medication,5179,2025-03-15
+1880,109,64,Allergy,Therapy,2479,2025-09-04
+1881,636,116,COVID-19,Medication,19411,2024-12-28
+1882,953,56,Heart Disease,Medication,4409,2025-03-18
+1883,21,33,Heart Disease,Medication,13734,2025-01-08
+1884,993,74,Heart Disease,Therapy,7178,2025-05-03
+1885,122,2,Fracture,Therapy,8072,2025-01-04
+1886,19,129,Migraine,Surgery,9548,2025-08-04
+1887,705,135,COVID-19,Therapy,3678,2025-11-13
+1888,183,4,Diabetes,Surgery,6035,2025-01-16
+1889,853,6,Allergy,Therapy,18547,2025-06-08
+1890,86,109,Heart Disease,Surgery,19423,2025-03-15
+1891,299,96,Allergy,Therapy,19882,2025-09-03
+1892,747,69,Heart Disease,Therapy,13250,2025-02-13
+1893,541,70,Diabetes,Therapy,17482,2025-08-25
+1894,728,32,COVID-19,Therapy,502,2024-12-20
+1895,953,50,COVID-19,Therapy,3690,2025-01-16
+1896,216,32,Fracture,Medication,1603,2025-07-09
+1897,78,149,Heart Disease,Surgery,13813,2025-06-03
+1898,752,85,COVID-19,Surgery,8137,2025-07-24
+1899,856,121,Allergy,Medication,14898,2025-09-21
+1900,894,83,Migraine,Surgery,3804,2025-11-14
+1901,946,104,Heart Disease,Surgery,12521,2025-10-05
+1902,823,119,Fracture,Medication,11606,2025-05-26
+1903,215,114,Diabetes,Medication,18003,2025-02-25
+1904,396,19,Fracture,Consultation,8592,2025-08-02
+1905,313,9,Diabetes,Medication,2549,2025-03-20
+1906,373,87,Migraine,Medication,1652,2025-01-21
+1907,723,111,Allergy,Surgery,2529,2024-12-14
+1908,905,104,Heart Disease,Medication,273,2025-04-28
+1909,846,10,Heart Disease,Surgery,12685,2025-03-03
+1910,114,61,Fracture,Therapy,3063,2025-02-10
+1911,854,122,Heart Disease,Therapy,8341,2025-10-08
+1912,816,148,Fracture,Consultation,11805,2025-09-18
+1913,719,49,COVID-19,Therapy,6107,2025-05-13
+1914,390,44,COVID-19,Consultation,5394,2025-03-04
+1915,185,56,Allergy,Medication,8831,2025-07-20
+1916,510,37,Fracture,Medication,13824,2025-09-02
+1917,666,43,Allergy,Consultation,14183,2025-10-06
+1918,842,3,Diabetes,Medication,12035,2025-02-02
+1919,651,117,Heart Disease,Medication,6835,2025-11-08
+1920,284,24,Heart Disease,Therapy,14725,2025-11-19
+1921,767,140,Allergy,Surgery,15767,2025-03-03
+1922,392,13,Allergy,Medication,4385,2025-10-16
+1923,286,142,Allergy,Consultation,3525,2025-06-30
+1924,504,92,Migraine,Consultation,9402,2025-07-08
+1925,995,61,Migraine,Medication,6627,2025-02-03
+1926,481,36,Allergy,Consultation,14826,2025-01-24
+1927,553,139,COVID-19,Therapy,11123,2025-01-01
+1928,171,127,Fracture,Consultation,6461,2025-10-07
+1929,952,55,Diabetes,Consultation,9956,2025-10-13
+1930,800,127,COVID-19,Consultation,16843,2025-04-13
+1931,145,69,Fracture,Surgery,14874,2025-05-19
+1932,733,68,Diabetes,Therapy,8993,2025-03-08
+1933,704,31,COVID-19,Consultation,12643,2025-03-25
+1934,637,146,Diabetes,Surgery,1277,2025-05-01
+1935,260,42,COVID-19,Medication,14761,2024-12-11
+1936,928,137,Heart Disease,Therapy,12326,2025-01-23
+1937,775,111,COVID-19,Consultation,5105,2025-01-10
+1938,660,47,Allergy,Medication,19925,2025-10-04
+1939,530,113,Fracture,Therapy,14962,2025-01-15
+1940,609,69,COVID-19,Medication,416,2025-03-17
+1941,839,8,Allergy,Medication,11559,2025-01-29
+1942,231,77,Fracture,Therapy,14651,2025-05-31
+1943,247,53,COVID-19,Medication,9259,2025-05-08
+1944,332,35,Migraine,Surgery,2585,2025-11-25
+1945,380,3,COVID-19,Therapy,8842,2025-12-02
+1946,173,54,Migraine,Surgery,8479,2025-01-21
+1947,83,69,Allergy,Medication,8096,2025-07-08
+1948,490,114,Diabetes,Therapy,12248,2025-09-12
+1949,615,17,COVID-19,Surgery,15916,2025-11-05
+1950,124,80,Allergy,Therapy,13172,2025-06-16
+1951,331,1,Allergy,Consultation,2514,2025-05-29
+1952,314,22,Migraine,Consultation,18525,2025-05-14
+1953,828,59,Fracture,Surgery,1001,2025-08-24
+1954,945,27,Fracture,Medication,6056,2025-07-11
+1955,378,91,Migraine,Consultation,18507,2025-05-09
+1956,587,115,Migraine,Consultation,17994,2025-07-14
+1957,173,29,Diabetes,Consultation,8476,2025-03-19
+1958,612,76,COVID-19,Surgery,11159,2025-09-20
+1959,857,47,Fracture,Medication,10751,2024-12-03
+1960,98,119,Migraine,Consultation,6571,2025-09-03
+1961,419,140,Fracture,Surgery,5713,2025-11-17
+1962,158,84,Allergy,Surgery,13717,2025-04-20
+1963,1,74,Allergy,Therapy,1688,2025-11-12
+1964,617,130,COVID-19,Medication,16942,2025-04-17
+1965,493,113,Migraine,Therapy,262,2025-06-22
+1966,461,22,Allergy,Surgery,9531,2025-05-09
+1967,813,30,Migraine,Consultation,9343,2025-05-21
+1968,285,85,Diabetes,Surgery,4815,2025-06-17
+1969,838,66,Migraine,Surgery,8459,2025-01-18
+1970,513,136,Fracture,Medication,6428,2025-10-22
+1971,894,109,Diabetes,Surgery,8849,2025-05-23
+1972,196,28,Allergy,Therapy,6883,2025-06-01
+1973,719,70,Fracture,Therapy,6338,2024-12-25
+1974,406,9,COVID-19,Surgery,10259,2025-07-22
+1975,716,93,Migraine,Medication,18941,2025-09-16
+1976,45,8,Allergy,Surgery,3332,2025-10-22
+1977,67,24,Diabetes,Consultation,7165,2024-12-06
+1978,985,12,Allergy,Surgery,18316,2025-04-12
+1979,3,118,COVID-19,Therapy,4352,2025-10-14
+1980,675,1,COVID-19,Therapy,18467,2025-09-14
+1981,352,48,Migraine,Surgery,14115,2025-10-24
+1982,190,74,Heart Disease,Consultation,14773,2025-06-06
+1983,634,108,Migraine,Therapy,4034,2025-02-14
+1984,420,113,Diabetes,Surgery,727,2025-04-12
+1985,781,6,Fracture,Therapy,11750,2025-05-19
+1986,718,4,COVID-19,Surgery,3077,2025-08-21
+1987,165,77,COVID-19,Medication,8144,2025-06-20
+1988,996,46,Migraine,Surgery,7857,2025-11-01
+1989,336,40,Allergy,Surgery,18380,2025-11-19
+1990,665,79,Fracture,Surgery,12239,2025-09-12
+1991,426,64,Heart Disease,Surgery,17642,2025-02-18
+1992,845,100,Allergy,Therapy,812,2025-06-24
+1993,334,80,COVID-19,Medication,16225,2025-02-12
+1994,776,125,Allergy,Therapy,17112,2025-01-04
+1995,772,41,Heart Disease,Consultation,17334,2025-07-28
+1996,101,91,Diabetes,Consultation,5767,2025-09-26
+1997,405,25,Diabetes,Surgery,2327,2024-12-07
+1998,543,27,Migraine,Surgery,1447,2025-02-22
+1999,491,135,Heart Disease,Surgery,5570,2025-12-03
+2000,437,35,Fracture,Surgery,4780,2025-09-03
