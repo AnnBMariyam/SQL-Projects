@@ -1,5 +1,0 @@
--- Day 6 SQL Practice
--- Topic: Hospital Analytics Project
--- Author: Ann B Mariyam
--- Date: 5 December 2025
--- Description: Real-world SQL queries analyzing hospital datasets.
