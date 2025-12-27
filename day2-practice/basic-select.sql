@@ -1,4 +1,3 @@
--- Day 2 SQL Practice
 -- Topic: Basic SELECT Queries
 -- Author: Ann B Mariyam
 -- Date: 29 November 2025
