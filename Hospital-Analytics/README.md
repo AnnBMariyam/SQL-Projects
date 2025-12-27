@@ -42,5 +42,4 @@ This project uses six relational datasets:
 
 ---
 
-## 📁 Project Structure
 
