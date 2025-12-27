@@ -1,6 +1,6 @@
-# 🏥 Hospital Analytics — Project Overview
+#  Hospital Analytics — Project Overview
 
-## 🎯 Project Purpose
+##  Project Purpose
 The goal of this project is to analyze hospital operations using SQL, focusing on:
 - patient demographics and disease trends  
 - doctor workload and performance  
@@ -12,7 +12,7 @@ This project simulates how a data analyst supports hospital management by provid
 
 ---
 
-## 🗂️ Dataset Summary
+##  Dataset Summary
 This project uses **six relational tables** representing one year of hospital activity:
 
 ### • patients  
@@ -35,7 +35,7 @@ Includes diagnosis, treatment type, treatment cost, and visit dates.
 
 ---
 
-## 📊 Key Business Questions
+##  Key Business Questions
 This project answers the following categories of analytical questions:
 
 ### 1️⃣ Patient & Doctor KPIs
@@ -67,7 +67,7 @@ This project answers the following categories of analytical questions:
 
 ---
 
-## 🔧 SQL Skills Demonstrated
+##  SQL Skills Demonstrated
 This project demonstrates the use of:
 
 - INNER JOIN, LEFT JOIN  
@@ -79,6 +79,4 @@ This project demonstrates the use of:
 - Real-world analytical problem solving  
 
 ---
-
-## 🧱 Project Structure
 
